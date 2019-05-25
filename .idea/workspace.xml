@@ -1,0 +1,803 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="AvailableLibraryUpdateStorage">
+    <library-updates>
+      <library-update>
+        <group-id>com.android.support</group-id>
+        <name>recyclerview-v7</name>
+        <version>28.0.0</version>
+        <repository>Google,Android Repository</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.google.android.gms</group-id>
+        <name>play-services-ads</name>
+        <version>17.2.1</version>
+        <repository>Google,Google Repository</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.onesignal</group-id>
+        <name>OneSignal</name>
+        <version>3.10.8</version>
+        <repository>JCenter</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.currencyfair</group-id>
+        <name>onesignal</name>
+        <version>1.0.10</version>
+        <repository>JCenter</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.google.code.gson</group-id>
+        <name>gson</name>
+        <version>2.8.5</version>
+        <repository>JCenter</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.android.support</group-id>
+        <name>design</name>
+        <version>28.0.0</version>
+        <repository>Google,Android Repository</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.google.firebase</group-id>
+        <name>firebase-messaging</name>
+        <version>18.0.0</version>
+        <repository>Google,Google Repository</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.squareup.retrofit2</group-id>
+        <name>converter-gson</name>
+        <version>2.5.0</version>
+        <repository>JCenter</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.google.android.gms</group-id>
+        <name>play-services-analytics</name>
+        <version>16.0.8</version>
+        <repository>Google,Google Repository</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.google.firebase</group-id>
+        <name>firebase-core</name>
+        <version>16.0.9</version>
+        <repository>Google,Google Repository</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.google.firebase</group-id>
+        <name>firebase-auth</name>
+        <version>17.0.0</version>
+        <repository>Google,Google Repository</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.android.support</group-id>
+        <name>cardview-v7</name>
+        <version>28.0.0</version>
+        <repository>Google,Android Repository</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.squareup.picasso</group-id>
+        <name>picasso</name>
+        <version>2.71828</version>
+        <repository>JCenter</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.github.bumptech.glide</group-id>
+        <name>glide</name>
+        <version>4.9.0</version>
+        <repository>JCenter</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.android.support.constraint</group-id>
+        <name>constraint-layout</name>
+        <version>2.0.0-beta1</version>
+        <repository>Google</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.google.firebase</group-id>
+        <name>firebase-database</name>
+        <version>17.0.0</version>
+        <repository>Google,Google Repository</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.squareup.retrofit2</group-id>
+        <name>retrofit</name>
+        <version>2.5.0</version>
+        <repository>JCenter</repository>
+      </library-update>
+      <library-update>
+        <group-id>junit</group-id>
+        <name>junit</name>
+        <version>4.13-beta-3</version>
+        <repository>JCenter</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.android.support.test</group-id>
+        <name>runner</name>
+        <version>1.0.2</version>
+        <repository>Google,Android Repository</repository>
+      </library-update>
+    </library-updates>
+    <last-search-timestamp>1558770144704</last-search-timestamp>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="12301c8c-8fe5-4942-85f0-3f161cef2721" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__android_arch_core_common_1_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__android_arch_core_runtime_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__android_arch_lifecycle_common_1_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__android_arch_lifecycle_livedata_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__android_arch_lifecycle_livedata_core_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__android_arch_lifecycle_runtime_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__android_arch_lifecycle_viewmodel_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_android_support_appcompat_v7_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_android_support_asynclayoutinflater_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_android_support_cardview_v7_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_android_support_collections_28_0_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_android_support_constraint_constraint_layout_1_1_3_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_android_support_constraint_constraint_layout_solver_1_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_android_support_coordinatorlayout_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_android_support_cursoradapter_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_android_support_customtabs_26_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_android_support_customview_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_android_support_design_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_android_support_documentfile_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_android_support_drawerlayout_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_android_support_exifinterface_27_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_android_support_interpolator_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_android_support_loader_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_android_support_localbroadcastmanager_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_android_support_print_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_android_support_recyclerview_v7_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_android_support_slidingpanelayout_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_android_support_support_annotations_28_0_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_android_support_support_compat_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_android_support_support_core_ui_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_android_support_support_core_utils_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_android_support_support_fragment_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_android_support_support_media_compat_26_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_android_support_support_v4_26_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_android_support_support_vector_drawable_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_android_support_swiperefreshlayout_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_core_3_0_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_idling_resource_3_0_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_android_support_test_monitor_1_0_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_android_support_test_runner_1_0_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_android_support_transition_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_android_support_versionedparcelable_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_android_support_viewpager_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_crashlytics_sdk_android_answers_1_4_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_crashlytics_sdk_android_beta_1_2_9_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_crashlytics_sdk_android_crashlytics_2_9_4_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_crashlytics_sdk_android_crashlytics_core_2_6_3_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_currencyfair_onesignal_1_0_10_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_annotations_2_8_6_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_core_2_8_6_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_databind_2_8_6_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_firebaseui_firebase_ui_database_0_4_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_github_bumptech_glide_glide_3_7_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_google_android_gms_play_services_ads_17_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_google_android_gms_play_services_ads_base_17_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_google_android_gms_play_services_ads_identifier_16_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_google_android_gms_play_services_ads_lite_17_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_google_android_gms_play_services_analytics_16_0_8_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_google_android_gms_play_services_analytics_impl_16_0_8_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_google_android_gms_play_services_auth_16_0_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_google_android_gms_play_services_auth_api_phone_16_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_google_android_gms_play_services_auth_base_16_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_google_android_gms_play_services_base_16_0_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_google_android_gms_play_services_basement_16_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_google_android_gms_play_services_flags_16_0_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_google_android_gms_play_services_gass_17_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_google_android_gms_play_services_location_12_0_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_google_android_gms_play_services_location_license_12_0_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_16_4_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_api_16_4_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_base_16_4_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_impl_16_4_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_sdk_16_4_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_sdk_api_16_4_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_google_android_gms_play_services_stats_16_0_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_google_android_gms_play_services_tagmanager_v4_impl_16_0_8_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_google_android_gms_play_services_tasks_16_0_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_google_auto_value_auto_value_annotations_1_6_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_2_0_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_google_code_gson_gson_2_8_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_google_firebase_firebase_analytics_16_4_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_google_firebase_firebase_auth_16_2_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_google_firebase_firebase_auth_interop_16_0_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_google_firebase_firebase_common_16_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_google_firebase_firebase_core_16_0_8_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_google_firebase_firebase_database_16_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_google_firebase_firebase_database_collection_16_0_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_google_firebase_firebase_iid_17_1_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_google_firebase_firebase_iid_interop_16_0_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_google_firebase_firebase_measurement_connector_17_0_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_google_firebase_firebase_messaging_17_6_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_onesignal_OneSignal_3_10_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_squareup_okhttp3_okhttp_3_10_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_squareup_okio_okio_1_14_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_squareup_picasso_picasso_2_71828_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_squareup_retrofit2_converter_gson_2_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__com_squareup_retrofit2_retrofit_2_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__commons_io_commons_io_2_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__io_fabric_sdk_android_fabric_1_4_3_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__io_github_openfeign_feign_core_9_4_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__io_github_openfeign_feign_jackson_9_4_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__io_github_openfeign_feign_slf4j_9_4_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__javax_inject_javax_inject_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__junit_junit_4_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__net_sf_kxml_kxml2_2_3_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__org_apache_commons_commons_lang3_3_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__org_jvnet_animal_sniffer_annotation_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__org_slf4j_jcl_over_slf4j_1_7_22_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__org_slf4j_log4j_over_slf4j_1_7_22_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_22_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bdJobSolution.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Job Raihan/Images/background_home.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Job Raihan/Images/login.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Job Raihan/Images/login_bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/metacoders/home/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/syntexterror/bdjobsolution/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/AboutActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/AboutActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/Android_app.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/Android_app.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/ArticleActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/ArticleActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/Article_Recycleview_Adapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/Article_Recycleview_Adapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/Bank_Prep.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/Bank_Prep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/BcsActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/BcsActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/BcsButtonActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/BcsButtonActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/Bcs_Prep_POst_DeatilsActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/Bcs_Prep_POst_DeatilsActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/Bises.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/Bises.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/ContactActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/ContactActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/Current_Activity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/Current_Activity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/Current_Post_Detail.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/Current_Post_Detail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/Editorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/Editorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/Feature_Activity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/Feature_Activity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/Feature_Detail_Activity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/Feature_Detail_Activity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/FireBase_notification.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/FireBase_notification.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/Govt_job_prep.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/Govt_job_prep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/Home.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/Home.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/Home_Activity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/Home_Activity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/JobsActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/JobsActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/Model.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/Model_for_Article_row.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/Model_for_Article_row.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/Model_for_Bises.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/Model_for_Bises.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/Model_for_Quiz_row.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/Model_for_Quiz_row.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/MyApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/MyApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/MyNotificationOpenedHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/MyNotificationOpenedHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/MyNotificationReceivedHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/MyNotificationReceivedHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/NotificationActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/NotificationActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/NottifiactionModule/NottificationPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/NottifiactionModule/NottificationPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/NottifiactionModule/viewholderForNottification.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/NottifiactionModule/viewholderForNottification.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/PostDetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/PostDetailActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/PostsListActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/PostsListActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/QuizActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/QuizActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/Quiz_Recycleview_Adapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/Quiz_Recycleview_Adapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/Qustion_Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/Qustion_Bank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/RetrofitArrayApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/RetrofitArrayApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/SettingsActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/SettingsActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/Shikok_nivondon.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/Shikok_nivondon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/Shop.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/Shop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/ShopActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/ShopActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/SplashScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/SplashScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/SyllabusActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/SyllabusActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/Under_Bcs_Button_QustionBank.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/Under_Bcs_Button_QustionBank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/Under_Bcs_prep_Button.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/Under_Bcs_prep_Button.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/ViEwHolder_For_Current.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/ViEwHolder_For_Current.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/ViewHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/ViewHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/Voc_post_detail.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/Voc_post_detail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/Voca_activity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/Voca_activity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/WPPostDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/WPPostDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/WpPost.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/WpPost.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/Wp_Quiz_details.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/Wp_Quiz_details.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/Wp_post_quiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/Wp_post_quiz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/bises_post_detail.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/bises_post_detail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/bookMarkController/BookMarkDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/bookMarkController/BookMarkDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/bookMarkController/bookmarkActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/bookMarkController/bookmarkActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/bookMarkController/viewHolderForBOOKMARK.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/bookMarkController/viewHolderForBOOKMARK.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/career_prep_Bangla.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/career_prep_Bangla.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/career_prep_Bangladesh.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/career_prep_Bangladesh.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/career_prep_Eng.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/career_prep_Eng.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/career_prep_GK.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/career_prep_GK.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/career_prep_International.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/career_prep_International.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/career_prep_Math.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/career_prep_Math.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/career_prep_Others.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/career_prep_Others.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/career_prep_ict.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/career_prep_ict.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/loginandSetup/ProfileSetupPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/loginandSetup/ProfileSetupPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/loginandSetup/RegisterActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/loginandSetup/RegisterActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/loginandSetup/loginactivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/loginandSetup/loginactivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/model/modelForBookMark.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/model/modelForBookMark.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/model/modelForNottifaction.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/model/modelForNottifaction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/model/modelForProfile.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/model/modelForProfile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/model_for_Current.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/model_for_Current.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/model_for__Career_prep_by_subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/model_for__Career_prep_by_subject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/model_for_feature_Activtiy.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/model_for_feature_Activtiy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/model_for_qusBank.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/model_for_qusBank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/model_for_vocabulary.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/model_for_vocabulary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/one_singal_notification.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/one_singal_notification.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/persistant_service.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/persistant_service.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/postDetails_for_Career_prep_by_subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/postDetails_for_Career_prep_by_subject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/profileActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/profileActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/qus_bank_detail.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/qus_bank_detail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/retrofitapi_quiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/retrofitapi_quiz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/viewHoder_for_bises.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/viewHoder_for_bises.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/viewHolder_For_Feature.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/viewHolder_For_Feature.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/viewHolder_for_Vocabulary.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/viewHolder_for_Vocabulary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/viewHolder_for__Career_prep_by_subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/viewHolder_for__Career_prep_by_subject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/viewHolder_for_bcs_prep.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/viewHolder_for_bcs_prep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/viewHolder_for_qusBank.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/syntexterror/bdjobsolution/viewHolder_for_qusBank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_about.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_about.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_career_prep.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_career_prep.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_contact.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_contact.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_jobs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_jobs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_nottification_page.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_nottification_page.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_posts_list.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_posts_list.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/metacoders/home/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/com/syntexterror/bdjobsolution/ExampleUnitTest.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/app/build/generated/not_namespaced_r_class_sources/" />
+    <ignored path="$PROJECT_DIR$/app/build/generated/source/r/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/annotation_processor_list/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/apk_list/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/app_classes/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/blame/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/build-info/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/builds/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/bundle_manifest/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/check_manifest_result/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/compatible_screen_manifest/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/dex/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/external_libs_dex/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/incremental/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/incremental-runtime-classes/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/instant-run-apk/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/instant_app_manifest/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/instant_run_app_info_output_file/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/instant_run_main_apk_resources/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/instant_run_merged_manifests/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/instant_run_split_apk_resources/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/javac/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/jniLibs/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/legacy_multidex_aapt_derived_proguard_rules/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/legacy_multidex_main_dex_list/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/lint_jar/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/manifest-checker/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/merged_assets/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/merged_manifests/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/metadata_application_id/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/metadata_feature_manifest/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/prebuild/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/processed_res/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/reload-dex/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/res/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/resources/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/rs/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/shader_assets/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/shaders/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/signing_config/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/split-apk/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/symbols/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/tmp/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/transforms/" />
+    <ignored path="$PROJECT_DIR$/app/build/intermediates/validate_signing_config/" />
+    <ignored path="$PROJECT_DIR$/app/build/outputs/" />
+    <ignored path="$PROJECT_DIR$/app/build/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/app">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <provider editor-type-id="android-manifest" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="17" column="40" lean-forward="true" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+              <folding>
+                <element signature="e#792#810#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/local.properties">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gradle.properties">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/proguard-rules.pro">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="521">
+              <caret line="81" selection-start-line="81" selection-end-line="82" selection-end-column="69" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/settings.gradle">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>storePass</find>
+      <find>signingConfig.keyPassword</find>
+      <find>signingConfig.storePassword</find>
+      <find>signingConfig.keyAlias</find>
+      <find>signingConfig.key</find>
+    </findStrings>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="C:\Users\Null-_-\Desktop\hungry birds Keystore\JOBKEY.jks" />
+    <option name="KEY_ALIAS" value="jobsolutionkey" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
+    <option name="BUILD_TARGET_KEY" value="apk" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/Home_Activity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_signin_page.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/row_for_notification.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_nottification_page.xml" />
+        <option value="$PROJECT_DIR$/.gradle/4.10.1/taskHistory/taskHistory.bin" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/loginandSetup/loginactivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/metacoders/home/bises_post_detail.java" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="bdJobSolution" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Android-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Android-app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Android-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Android-app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name=".gradle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Android-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Android-app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name=".gradle" type="462c0819:PsiDirectoryNode" />
+              <item name="4.10.1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Android-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Android-app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name=".gradle" type="462c0819:PsiDirectoryNode" />
+              <item name="4.10.1" type="462c0819:PsiDirectoryNode" />
+              <item name="taskHistory" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExportApk.ApkPath" value="D:\Android-app\app" />
+    <property name="ExportApk.BuildVariants" value="release" />
+    <property name="ExportApk.SignV1" value="true" />
+    <property name="ExportApk.SignV2" value="true" />
+    <property name="device.picker.selection" value="android_8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hungry birds Keystore/JOBKEY.jks" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="sync.plugin.last.upgrade.timestamp" value="1558769989498" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12301c8c-8fe5-4942-85f0-3f161cef2721" name="Default Changelist" comment="" />
+      <created>1555143391097</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555143391097</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.21386667" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Build Variants" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Designer" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info id="Resources Explorer" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.32924107" />
+      <window_info anchor="bottom" id="Logcat" order="1" weight="0.3296582" />
+      <window_info anchor="bottom" id="TODO" order="2" />
+      <window_info anchor="bottom" id="Android Profiler" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="6" weight="0.32924107" />
+      <window_info anchor="bottom" id="Run" order="7" />
+      <window_info anchor="bottom" id="Debug" order="8" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Fabric" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Codota" order="6" />
+      <window_info anchor="right" id="Preview" order="7" weight="0.3296" />
+      <window_info anchor="right" id="Viewer" order="8" side_tool="true" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gradle/4.10.1/taskHistory/taskHistory.bin">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="1084" column="383" selection-start-line="1084" selection-start-column="383" selection-end-line="1084" selection-end-column="383" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/metacoders/home/loginandSetup/ProfileSetupPage.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_signin_page.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1222">
+          <caret line="47" column="47" selection-start-line="47" selection-start-column="47" selection-end-line="47" selection-end-column="47" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/row_for_notification.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_nottification_page.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="910">
+          <caret line="35" column="47" selection-start-line="35" selection-start-column="47" selection-end-line="35" selection-end-column="47" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/metacoders/home/loginandSetup/loginactivity.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/metacoders/home/career_prep_Math.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/metacoders/home/SplashScreen.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/metacoders/home/bises_post_detail.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/metacoders/home/Bcs_Prep_POst_DeatilsActivity.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/metacoders/home/Home_Activity.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/circleyellow.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_account_balance_black_24dp.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/backgroud.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/background_js.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="17" column="40" lean-forward="true" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+          <folding>
+            <element signature="e#792#810#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/proguard-rules.pro">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="521">
+          <caret line="81" selection-start-line="81" selection-end-line="82" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

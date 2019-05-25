@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.syntexterror.bdjobsolution">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CALL_PHONE" /> <!-- External storage permission -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:name="com.syntexterror.bdjobsolution.Android_app"
+        android:allowBackup="true"
+        android:icon="@mipmap/logo"
+        android:label="@string/app_name"
+        android:launchMode="singleInstance"
+        android:roundIcon="@mipmap/logo"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:ignore="GoogleAppIndexingWarning">
+        <activity android:name="com.syntexterror.bdjobsolution.NottifiactionModule.NottificationPage"></activity>
+        <activity android:name="com.syntexterror.bdjobsolution.loginandSetup.ProfileSetupPage"></activity>
+        <activity android:name="com.syntexterror.bdjobsolution.bookMarkController.BookMarkDetails" />
+        <activity android:name="com.syntexterror.bdjobsolution.bookMarkController.bookmarkActivity" />
+        <activity android:name="com.syntexterror.bdjobsolution.profileActivity" />
+        <activity android:name="com.syntexterror.bdjobsolution.loginandSetup.RegisterActivity" />
+        <activity android:name="com.syntexterror.bdjobsolution.loginandSetup.loginactivity" />
+
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-1385980455216480~6372398780" />
+
+        <activity
+            android:name="com.syntexterror.bdjobsolution.SplashScreen"
+            android:theme="@style/splash">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.syntexterror.bdjobsolution.Home_Activity"
+            android:launchMode="singleTop">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.syntexterror.bdjobsolution.JobsActivity" />
+        <activity android:name="com.syntexterror.bdjobsolution.NotificationActivity" />
+        <activity android:name="com.syntexterror.bdjobsolution.QuizActivity" />
+        <activity android:name="com.syntexterror.bdjobsolution.ContactActivity" />
+        <activity android:name="com.syntexterror.bdjobsolution.SettingsActivity" />
+        <activity android:name="com.syntexterror.bdjobsolution.AboutActivity" />
+        <activity android:name="com.syntexterror.bdjobsolution.ArticleActivity" />
+        <activity android:name="com.syntexterror.bdjobsolution.PostsListActivity" />
+        <activity android:name="com.syntexterror.bdjobsolution.PostDetailActivity" />
+        <activity android:name="com.syntexterror.bdjobsolution.WPPostDetails" />
+        <activity android:name="com.syntexterror.bdjobsolution.Wp_Quiz_details" />
+
+        <meta-data
+            android:name="io.fabric.ApiKey"
+            android:value="e5ed560138ef90420b4feb23f6939ba556c01e12" />
+
+        <activity android:name="com.syntexterror.bdjobsolution.Voca_activity" />
+        <activity android:name="com.syntexterror.bdjobsolution.Voc_post_detail" />
+        <activity android:name="com.syntexterror.bdjobsolution.Qustion_Bank" />
+        <activity android:name="com.syntexterror.bdjobsolution.qus_bank_detail" />
+        <activity android:name="com.syntexterror.bdjobsolution.BcsActivity" />
+        <activity android:name="com.syntexterror.bdjobsolution.SyllabusActivity" />
+        <activity android:name="com.syntexterror.bdjobsolution.BcsButtonActivity" />
+        <activity android:name="com.syntexterror.bdjobsolution.Bises" />
+        <activity android:name="com.syntexterror.bdjobsolution.bises_post_detail" />
+        <activity android:name="com.syntexterror.bdjobsolution.Current_Activity" />
+        <activity android:name="com.syntexterror.bdjobsolution.Current_Post_Detail" />
+        <activity android:name="com.syntexterror.bdjobsolution.Feature_Activity" />
+        <activity android:name="com.syntexterror.bdjobsolution.Feature_Detail_Activity" />
+        <activity android:name="com.syntexterror.bdjobsolution.Bcs_Prep_POst_DeatilsActivity" />
+        <activity android:name="com.syntexterror.bdjobsolution.Govt_job_prep" />
+        <activity android:name="com.syntexterror.bdjobsolution.Bank_Prep" />
+        <activity android:name="com.syntexterror.bdjobsolution.Shikok_nivondon" />
+        <activity android:name="com.syntexterror.bdjobsolution.postDetails_for_Career_prep_by_subject" />
+        <activity android:name="com.syntexterror.bdjobsolution.career_prep_Bangla" />
+
+        <service
+            android:name="com.syntexterror.bdjobsolution.persistant_service"
+            android:enabled="true"
+            android:exported="true" />
+
+        <activity android:name="com.syntexterror.bdjobsolution.career_prep_Eng" />
+        <activity android:name="com.syntexterror.bdjobsolution.career_prep_Math" />
+        <activity android:name="com.syntexterror.bdjobsolution.career_prep_ict" />
+        <activity android:name="com.syntexterror.bdjobsolution.career_prep_Bangladesh" />
+        <activity android:name="com.syntexterror.bdjobsolution.career_prep_International" />
+        <activity android:name="com.syntexterror.bdjobsolution.career_prep_GK" />
+        <activity android:name="com.syntexterror.bdjobsolution.career_prep_Others" />
+        <activity android:name="com.syntexterror.bdjobsolution.Under_Bcs_prep_Button" />
+        <activity android:name="com.syntexterror.bdjobsolution.Under_Bcs_Button_QustionBank" />
+        <activity android:name="com.syntexterror.bdjobsolution.Editorial" />
+        <activity android:name="com.syntexterror.bdjobsolution.ShopActivity" />
+        <activity android:name="com.syntexterror.bdjobsolution.Shop" />
+    </application>
+
+</manifest>

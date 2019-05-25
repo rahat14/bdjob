@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "484233152873",
+    "firebase_url": "https://jobreciver-5e1ca.firebaseio.com",
+    "project_id": "jobreciver-5e1ca",
+    "storage_bucket": "jobreciver-5e1ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484233152873:android:724557b261404bf2",
+        "android_client_info": {
+          "package_name": "com.metacoders.home"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484233152873-21hvv7ph4g4u5cp3f9mmdoch0qcc6otb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.metacoders.home",
+            "certificate_hash": "f77f5d84f2001412acd7494f3aef42619c39588f"
+          }
+        },
+        {
+          "client_id": "484233152873-6h8m1sjiurt53agdq2fjaf6vddfhcn2u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.metacoders.home",
+            "certificate_hash": "e7134e9e771c4552820851631487affe4d0ba29b"
+          }
+        },
+        {
+          "client_id": "484233152873-52o6hu5i8uthvo9bti0d5qh0b04plf4m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnjIU5Qw-AM7jUZow8HqyRx1kT37UfxhE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484233152873-52o6hu5i8uthvo9bti0d5qh0b04plf4m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

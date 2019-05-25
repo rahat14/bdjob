@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.github.openfeign:feign-jackson:9.4.0@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.github.openfeign/feign-jackson/9.4.0/39d75afa4ff69b35a7c67dad9d818db42cb7839b/feign-jackson-9.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.github.openfeign/feign-jackson/9.4.0/4489049fc8417f12f35939822af26f4df38cb677/feign-jackson-9.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
