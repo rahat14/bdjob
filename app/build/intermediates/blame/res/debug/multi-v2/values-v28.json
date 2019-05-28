@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "G:\\Android_Works\\bdjob\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v28\\values-v28.xml",
+            "outputFile": "D:\\bdjob\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v28\\values-v28.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Shakhawat Md. Shahee\\.gradle\\caches\\transforms-2\\files-2.1\\d29dc805edcd00abe83c2a4df9ff9c19\\res\\values-v28\\values-v28.xml",
+                    "source": "C:\\Users\\Null-_-\\.gradle\\caches\\transforms-2\\files-2.1\\1e56cb0859248889815e308c311d3945\\res\\values-v28\\values-v28.xml",
                     "from": {
                         "startLines": "2,3,4,8",
                         "startColumns": "4,4,4,4",

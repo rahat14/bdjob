@@ -26,7 +26,7 @@ import com.google.firebase.database.FirebaseDatabase;
 import com.syntexterror.bdjobsolution.bookMarkController.bookmarkActivity;
 import com.syntexterror.bdjobsolution.model.modelForBookMark;
 
-public class homebises_post_detail extends AppCompatActivity {
+public class bises_post_detail extends AppCompatActivity {
     TextView mTitleTv, mDetailTv;
     AdView mAdView ;
     DrawerLayout drawerLayout ;

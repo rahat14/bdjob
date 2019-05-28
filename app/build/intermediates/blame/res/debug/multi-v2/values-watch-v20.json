@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "G:\\Android_Works\\bdjob\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-watch-v20\\values-watch-v20.xml",
+            "outputFile": "D:\\bdjob\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-watch-v20\\values-watch-v20.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Shakhawat Md. Shahee\\.gradle\\caches\\transforms-2\\files-2.1\\d29dc805edcd00abe83c2a4df9ff9c19\\res\\values-watch-v20\\values-watch-v20.xml",
+                    "source": "C:\\Users\\Null-_-\\.gradle\\caches\\transforms-2\\files-2.1\\1e56cb0859248889815e308c311d3945\\res\\values-watch-v20\\values-watch-v20.xml",
                     "from": {
                         "startLines": "2,5,8",
                         "startColumns": "4,4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Shakhawat Md. Shahee\\.gradle\\caches\\transforms-2\\files-2.1\\23571ad92b8c1c247d6215aca4c3b401\\res\\values-watch-v20\\values.xml",
+                    "source": "C:\\Users\\Null-_-\\.gradle\\caches\\transforms-2\\files-2.1\\d90e53c5fcd3017d03baf944fd63fcad\\res\\values-watch-v20\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11",
                         "startColumns": "0,0,0,0,0,0,0,0",

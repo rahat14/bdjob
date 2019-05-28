@@ -160,7 +160,7 @@ public CardView QusBank_button;
 
 
         //advirtisement
-        mAdView = findViewById(R.id.adView_Under_BCS_BUTTON);
+      //  mAdView = findViewById(R.id.adView_Under_BCS_BUTTON);
 
         AdRequest adRequest = new AdRequest.Builder().build();
 
@@ -173,8 +173,8 @@ public CardView QusBank_button;
         Bcs_Bar = (ProgressBar) findViewById(R.id.progressbar_Bcs_prep) ;
         Bcs_Bar.setVisibility(View.VISIBLE);
         //button linking with id
-        QusBank_button =  (CardView)findViewById(R.id.qsnBank_Button_in_Bcs);
-        PrepButton = (CardView)findViewById(R.id.prep_IN_Bcs_btn);
+      //  QusBank_button =  (CardView)findViewById(R.id.qsnBank_Button_in_Bcs);
+     //   PrepButton = (CardView)findViewById(R.id.prep_IN_Bcs_btn);
 
         ////Click Listener to CardButton
 
@@ -442,14 +442,14 @@ public CardView QusBank_button;
     public void onClick(View view) {
         Intent i ;
         switch (view.getId()){
-            case R.id.prep_IN_Bcs_btn :
-            i=new Intent(this, Under_Bcs_prep_Button.class);
-            startActivity(i);
-            break;
-            case R.id.qsnBank_Button_in_Bcs :
-                i=new Intent(this, Under_Bcs_Button_QustionBank.class);
-                startActivity(i);
-                break;
+          //  case R.id.prep_IN_Bcs_btn :
+          //  i=new Intent(this, Under_Bcs_prep_Button.class);
+           // startActivity(i);
+          //  break;
+           // case R.id.qsnBank_Button_in_Bcs :
+            //    i=new Intent(this, Under_Bcs_Button_QustionBank.class);
+              //  startActivity(i);
+                // break;
 
 
 

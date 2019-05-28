@@ -27,7 +27,7 @@ public class BcsActivity extends AppCompatActivity implements View.OnClickListen
 
         //defining cardButtons
        // syllButton = (CardView) findViewById(R.id.syll_button);
-        qsnButton = (CardView) findViewById(R.id.qsn_Button);
+     //   qsnButton = (CardView) findViewById(R.id.qsn_Button);
         banglaButton = (CardView) findViewById(R.id.bangla_Button);
         englishButton = (CardView) findViewById(R.id.english_Button);
         bdtopicButton = (CardView) findViewById(R.id.bdtopic_Button);
