@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Android-app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rIN\\values-en-rIN.xml",
+            "outputFile": "G:\\Android_Works\\bdjob\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rIN\\values-en-rIN.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Null-_-\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\2563803ba6e587866a39f54916e4a31d\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "source": "C:\\Users\\Shakhawat Md. Shahee\\.gradle\\caches\\transforms-2\\files-2.1\\d29dc805edcd00abe83c2a4df9ff9c19\\res\\values-en-rIN\\values-en-rIN.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Null-_-\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\5787027c356b1e113fec9d0b1538175b\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "source": "C:\\Users\\Shakhawat Md. Shahee\\.gradle\\caches\\transforms-2\\files-2.1\\7751a4435712ef779aa95ed3463ebb9d\\res\\values-en-rIN\\values-en-rIN.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

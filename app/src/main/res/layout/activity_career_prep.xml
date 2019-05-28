@@ -13,7 +13,7 @@
         android:id="@+id/notification_activity"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="@color/backgroundcolor">
+        android:background="@drawable/background_gradient">
 
 
     <ScrollView
@@ -22,6 +22,8 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
             android:orientation="vertical">
             <com.google.android.gms.ads.AdView
                 xmlns:ads="http://schemas.android.com/apk/res-auto"
@@ -29,6 +31,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 ads:adSize="BANNER"
+                android:layout_gravity="center"
                 ads:adUnitId="ca-app-pub-1385980455216480/1705152193"
                 >
             </com.google.android.gms.ads.AdView>
@@ -36,6 +39,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:padding="6dp"
+                android:layout_gravity="center"
                 android:text="বিশেষ প্রস্তুতি"
                 android:textColor="#000000"
                 android:textSize="16sp"
@@ -53,7 +57,8 @@
                     android:id="@+id/bcs_Button"
                     android:layout_width="110dp"
                     android:layout_height="130dp"
-                    android:layout_marginRight="0dp"
+                    android:layout_marginRight="1dp"
+                    android:layout_marginBottom="1dp"
                     android:layout_weight="1"
                     android:clickable="true"
                     android:foreground="?android:attr/selectableItemBackground">
@@ -64,11 +69,10 @@
                         android:orientation="vertical">
 
                         <ImageView
-                            android:layout_width="64dp"
-                            android:layout_height="64dp"
-                            android:background="@drawable/circlegreen"
+                            android:layout_width="90dp"
+                            android:layout_height="90dp"
                             android:padding="10dp"
-                            android:src="@drawable/ic_school_black_24dp"/>
+                            android:src="@drawable/bcs_icon" />
                         <TextView
                             android:id="@+id/bcs_title"
                             android:layout_width="wrap_content"
@@ -96,7 +100,9 @@
                     android:id="@+id/bank_Button"
                     android:layout_width="110dp"
                     android:layout_height="130dp"
-                    android:layout_margin="0dp"
+                    android:layout_marginLeft="1dp"
+                    android:layout_marginBottom="1dp"
+
                     android:layout_weight="1"
                     android:clickable="true"
                     android:foreground="?android:attr/selectableItemBackground">
@@ -107,11 +113,10 @@
                         android:orientation="vertical">
 
                         <ImageView
-                            android:layout_width="64dp"
-                            android:layout_height="64dp"
-                            android:background="@drawable/circleteallight"
+                            android:layout_width="90dp"
+                            android:layout_height="90dp"
                             android:padding="10dp"
-                            android:src="@drawable/ic_store_black_24dp"/>
+                            android:src="@drawable/bank_icon" />
 
                         <TextView
                             android:id="@+id/bank_title"
@@ -150,7 +155,7 @@
                     android:id="@+id/govt_Button"
                     android:layout_width="110dp"
                     android:layout_height="130dp"
-                    android:layout_margin="0dp"
+                    android:layout_margin="1dp"
                     android:layout_weight="1"
                     android:clickable="true"
                     android:foreground="?android:attr/selectableItemBackground">
@@ -162,11 +167,10 @@
                         android:orientation="vertical">
 
                         <ImageView
-                            android:layout_width="64dp"
-                            android:layout_height="64dp"
-                            android:background="@drawable/circlepurple"
+                            android:layout_width="90dp"
+                            android:layout_height="90dp"
                             android:padding="10dp"
-                            android:src="@drawable/ic_account_balance_black_24dp" />
+                            android:src="@drawable/gov_icon" />
 
                         <TextView
                             android:id="@+id/govt_title"
@@ -195,7 +199,7 @@
                     android:id="@+id/teacher_Button"
                     android:layout_width="110dp"
                     android:layout_height="130dp"
-                    android:layout_margin="0dp"
+                    android:layout_marginLeft="1dp"
                     android:layout_weight="1"
                     android:clickable="true"
                     android:foreground="?android:attr/selectableItemBackground">
@@ -207,11 +211,10 @@
                         android:orientation="vertical">
 
                         <ImageView
-                            android:layout_width="64dp"
-                            android:layout_height="64dp"
-                            android:background="@drawable/circlepink"
+                            android:layout_width="90dp"
+                            android:layout_height="90dp"
                             android:padding="10dp"
-                            android:src="@drawable/ic_streetview_black_24dp" />
+                            android:src="@drawable/teacher_icon" />
 
                         <TextView
                             android:id="@+id/teacher_title"
@@ -238,6 +241,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 ads:adSize="BANNER"
+                android:layout_gravity="center"
                 ads:adUnitId="ca-app-pub-1385980455216480/1705152193"
                 >
             </com.google.android.gms.ads.AdView>
@@ -246,6 +250,7 @@
                 android:layout_height="wrap_content"
                 android:fontFamily="@font/lip"
                 android:padding="6dp"
+                android:layout_gravity="center"
                 android:text="বিষয়ভিত্তিক প্রস্তুতি"
                 android:textColor="#000000"
                 android:textSize="16sp"
@@ -275,9 +280,8 @@
                         <ImageView
                             android:layout_width="64dp"
                             android:layout_height="64dp"
-                            android:background="@drawable/circlegreen"
                             android:padding="10dp"
-                            android:src="@drawable/ic_book_black_24dp"/>
+                            android:src="@drawable/bangla_icon"/>
                         <TextView
                             android:id="@+id/bangla_title"
                             android:layout_width="wrap_content"
@@ -318,9 +322,8 @@
                         <ImageView
                             android:layout_width="64dp"
                             android:layout_height="64dp"
-                            android:background="@drawable/circleteallight"
                             android:padding="10dp"
-                            android:src="@drawable/ic_sort_by_alpha_black_24dp" />
+                            android:src="@drawable/english_icon" />
 
                         <TextView
                             android:id="@+id/eng_title"
@@ -339,14 +342,6 @@
 
                     </LinearLayout>
                 </android.support.v7.widget.CardView>
-            </LinearLayout>
-
-            <LinearLayout
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:clipToPadding="false"
-                android:gravity="center"
-                android:orientation="horizontal">
 
                 <android.support.v7.widget.CardView
                     android:id="@+id/math_btn"
@@ -365,9 +360,8 @@
                         <ImageView
                             android:layout_width="64dp"
                             android:layout_height="64dp"
-                            android:background="@drawable/circlepurple"
                             android:padding="10dp"
-                            android:src="@drawable/ic_exposure_black_24dp" />
+                            android:src="@drawable/math_icon" />
                         <TextView
                             android:id="@+id/math_text"
                             android:layout_width="wrap_content"
@@ -384,7 +378,6 @@
                             android:background="@color/lightgray"/>
                     </LinearLayout>
                 </android.support.v7.widget.CardView>
-
 
                 <android.support.v7.widget.CardView
                     android:id="@+id/ict_btn"
@@ -403,9 +396,8 @@
                         <ImageView
                             android:layout_width="64dp"
                             android:layout_height="64dp"
-                            android:background="@drawable/circlepink"
                             android:padding="10dp"
-                            android:src="@drawable/ic_computer_black_24dp" />
+                            android:src="@drawable/ict_icon" />
                         <TextView
                             android:id="@+id/info_title"
                             android:layout_width="wrap_content"
@@ -422,6 +414,19 @@
                             android:background="@color/lightgray"/>
                     </LinearLayout>
                 </android.support.v7.widget.CardView>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:clipToPadding="false"
+                android:gravity="center"
+                android:orientation="horizontal">
+
+
+
+
+
             </LinearLayout>
             <LinearLayout
                 android:layout_width="match_parent"
@@ -447,9 +452,8 @@
                         <ImageView
                             android:layout_width="64dp"
                             android:layout_height="64dp"
-                            android:background="@drawable/circlegreen"
                             android:padding="10dp"
-                            android:src="@drawable/ic_map_black_24dp" />
+                            android:src="@drawable/bd_topic_icon" />
                         <TextView
                             android:id="@+id/bdtopics_title"
                             android:layout_width="wrap_content"
@@ -490,9 +494,8 @@
                         <ImageView
                             android:layout_width="64dp"
                             android:layout_height="64dp"
-                            android:background="@drawable/circleteallight"
                             android:padding="10dp"
-                            android:src="@drawable/ic_language_black_24dp" />
+                            android:src="@drawable/international_icon" />
 
                         <TextView
                             android:id="@+id/international_title"
@@ -500,6 +503,7 @@
                             android:layout_height="wrap_content"
                             android:layout_marginTop="10dp"
                             android:fontFamily="@font/lip"
+                            android:textAlignment="center"
                             android:text="আন্তর্জাতিক বিষয়াবলী"
                             android:textSize="15sp"
                             android:textStyle="bold" />
@@ -511,14 +515,6 @@
 
                     </LinearLayout>
                 </android.support.v7.widget.CardView>
-            </LinearLayout>
-
-            <LinearLayout
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:clipToPadding="false"
-                android:gravity="center"
-                android:orientation="horizontal">
 
                 <android.support.v7.widget.CardView
                     android:id="@+id/general_btn"
@@ -538,9 +534,8 @@
                         <ImageView
                             android:layout_width="64dp"
                             android:layout_height="64dp"
-                            android:background="@drawable/circlepurple"
                             android:padding="10dp"
-                            android:src="@drawable/ic_question_answer_black_24dp" />
+                            android:src="@drawable/science_icon" />
 
                         <TextView
                             android:id="@+id/general_text"
@@ -560,7 +555,6 @@
                     </LinearLayout>
                 </android.support.v7.widget.CardView>
 
-
                 <android.support.v7.widget.CardView
                     android:id="@+id/others_btn"
                     android:layout_width="110dp"
@@ -578,9 +572,8 @@
                         <ImageView
                             android:layout_width="64dp"
                             android:layout_height="64dp"
-                            android:background="@drawable/circlepink"
                             android:padding="10dp"
-                            android:src="@drawable/ic_format_align_left_black_24dp"/>
+                            android:src="@drawable/others_icon"/>
                         <TextView
                             android:id="@+id/others_title"
                             android:layout_width="wrap_content"
@@ -597,6 +590,19 @@
                             android:background="@color/lightgray"/>
                     </LinearLayout>
                 </android.support.v7.widget.CardView>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:clipToPadding="false"
+                android:gravity="center"
+                android:orientation="horizontal">
+
+
+
+
+
             </LinearLayout>
             <com.google.android.gms.ads.AdView
                 xmlns:ads="http://schemas.android.com/apk/res-auto"

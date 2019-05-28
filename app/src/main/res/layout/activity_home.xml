@@ -5,6 +5,7 @@
     android:id="@+id/drawerId"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/background_gradient"
     android:fitsSystemWindows="true"
     >
     <ScrollView
@@ -15,8 +16,9 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginLeft="6dp"
-            android:layout_marginRight="6dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
             android:orientation="vertical">
 
 
@@ -25,7 +27,7 @@
                 android:layout_height="wrap_content"
                 android:padding="6dp"
                 android:text="বিশেষ"
-                android:textColor="#000000"
+                android:textColor="#fff"
                 android:textSize="16sp"
                 android:textStyle="bold" />
 
@@ -40,7 +42,8 @@
                     android:id="@+id/jobs_Button"
                     android:layout_width="150dp"
                     android:layout_height="140dp"
-                    android:layout_marginRight="0px"
+                    android:layout_marginRight="1dp"
+                     android:layout_marginBottom="1dp"
                     android:layout_weight="1"
                     android:clickable="true"
                     android:foreground="?android:attr/selectableItemBackground">
@@ -52,11 +55,10 @@
                         android:orientation="vertical">
 
                         <ImageView
-                            android:layout_width="70dp"
-                            android:layout_height="70dp"
-                            android:background="@drawable/circlepurple"
+                            android:layout_width="90dp"
+                            android:layout_height="90dp"
                             android:padding="10dp"
-                            android:src="@drawable/ic_card_travel_black_24dp" />
+                            android:src="@drawable/jobs_icon" />
 
                         <TextView
                             android:id="@+id/cakribakri"
@@ -84,7 +86,8 @@
                     android:id="@+id/notification_Button"
                     android:layout_width="150dp"
                     android:layout_height="140dp"
-                    android:layout_marginLeft="0px"
+                    android:layout_marginLeft="1dp"
+                    android:layout_marginBottom="1dp"
                     android:layout_weight="1"
                     android:clickable="true"
                     android:foreground="?android:attr/selectableItemBackground">
@@ -96,11 +99,10 @@
                         android:orientation="vertical">
 
                         <ImageView
-                            android:layout_width="70dp"
-                            android:layout_height="70dp"
-                            android:background="@drawable/circlepink"
+                            android:layout_width="90dp"
+                            android:layout_height="90dp"
                             android:padding="10dp"
-                            android:src="@drawable/ic_event_available_black_24dp" />
+                            android:src="@drawable/job_prep_icon" />
 
                         <TextView
                             android:id="@+id/cakri_prostoti"
@@ -139,7 +141,8 @@
                     android:id="@+id/article_Button"
                     android:layout_width="150dp"
                     android:layout_height="140dp"
-                    android:layout_marginRight="0dp"
+                    android:layout_marginRight="1dp"
+                    android:layout_marginTop="1dp"
                     android:layout_weight="1"
                     android:clickable="true"
                     android:foreground="?android:attr/selectableItemBackground">
@@ -151,11 +154,10 @@
                         android:orientation="vertical">
 
                         <ImageView
-                            android:layout_width="64dp"
-                            android:layout_height="64dp"
-                            android:background="@drawable/circleyellow"
+                            android:layout_width="90dp"
+                            android:layout_height="90dp"
                             android:padding="10dp"
-                            android:src="@drawable/ic_assignment_black_24dp" />
+                            android:src="@drawable/notices_icon" />
 
                         <TextView
                             android:id="@+id/notice_text"
@@ -181,7 +183,8 @@
                     android:id="@+id/Bises_Btn"
                     android:layout_width="150dp"
                     android:layout_height="140dp"
-                    android:layout_marginLeft="0dp"
+                    android:layout_marginLeft="1dp"
+                    android:layout_marginTop="1dp"
                     android:layout_weight="1"
                     android:clickable="true"
                     android:foreground="?android:attr/selectableItemBackground">
@@ -193,11 +196,10 @@
                         android:orientation="vertical">
 
                         <ImageView
-                            android:layout_width="64dp"
-                            android:layout_height="64dp"
-                            android:background="@drawable/circleteal"
+                            android:layout_width="90dp"
+                            android:layout_height="90dp"
                             android:padding="10dp"
-                            android:src="@drawable/ic_book_black_24dp" />
+                            android:src="@drawable/bishes_icon" />
 
                         <TextView
                             android:id="@+id/bises"
@@ -227,7 +229,7 @@
                 android:layout_height="wrap_content"
                 android:padding="6dp"
                 android:text="প্রস্তুতি সহায়িকা"
-                android:textColor="#000000"
+                android:textColor="#fff"
                 android:textSize="16sp"
                 android:textStyle="bold" />
 
@@ -243,7 +245,8 @@
                     android:id="@+id/quiz_Button"
                     android:layout_width="110dp"
                     android:layout_height="130dp"
-                    android:layout_marginRight="0dp"
+                    android:layout_marginRight="1dp"
+                    android:layout_marginBottom="1dp"
                     android:layout_weight="1"
                     android:clickable="true"
                     android:foreground="?android:attr/selectableItemBackground">
@@ -255,11 +258,10 @@
                         android:orientation="vertical">
 
                         <ImageView
-                            android:layout_width="64dp"
-                            android:layout_height="64dp"
-                            android:background="@drawable/circlegreen"
+                            android:layout_width="90dp"
+                            android:layout_height="90dp"
                             android:padding="10dp"
-                            android:src="@drawable/ic_lightbulb_outline_black_24dp" />
+                            android:src="@drawable/quize_icon" />
 
                         <TextView
                             android:id="@+id/quiz_title"
@@ -287,7 +289,8 @@
                     android:id="@+id/current_Button"
                     android:layout_width="110dp"
                     android:layout_height="130dp"
-                    android:layout_margin="0dp"
+                    android:layout_marginLeft="1dp"
+                    android:layout_marginBottom="1dp"
                     android:layout_weight="1"
                     android:clickable="true"
                     android:foreground="?android:attr/selectableItemBackground">
@@ -299,11 +302,10 @@
                         android:orientation="vertical">
 
                         <ImageView
-                            android:layout_width="64dp"
-                            android:layout_height="64dp"
-                            android:background="@drawable/circleteallight"
+                            android:layout_width="90dp"
+                            android:layout_height="90dp"
                             android:padding="10dp"
-                            android:src="@drawable/ic_email_black_24dp" />
+                            android:src="@drawable/Recent_icon" />
 
                         <TextView
                             android:id="@+id/current_title"
@@ -326,6 +328,18 @@
 
                 </android.support.v7.widget.CardView>
 
+
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:clipToPadding="false"
+                android:gravity="center"
+                android:orientation="horizontal">
+
                 <android.support.v7.widget.CardView
                     android:id="@+id/feature_Button"
                     android:layout_width="110dp"
@@ -345,9 +359,8 @@
                         <ImageView
                             android:layout_width="64dp"
                             android:layout_height="64dp"
-                            android:background="@drawable/circleyellow"
                             android:padding="10dp"
-                            android:src="@drawable/ic_featured_play_list_black_24dp" />
+                            android:src="@drawable/feature_icon" />
 
                         <TextView
                             android:id="@+id/feature_title"
@@ -370,16 +383,6 @@
 
                 </android.support.v7.widget.CardView>
 
-
-            </LinearLayout>
-
-            <LinearLayout
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:clipToPadding="false"
-                android:gravity="center"
-                android:orientation="horizontal">
-
                 <android.support.v7.widget.CardView
                     android:id="@+id/questionBank_Button"
                     android:layout_width="110dp"
@@ -398,9 +401,8 @@
                         <ImageView
                             android:layout_width="64dp"
                             android:layout_height="64dp"
-                            android:background="@drawable/circlepurple"
                             android:padding="10dp"
-                            android:src="@drawable/ic_question_answer_black_24dp" />
+                            android:src="@drawable/qsn_bank" />
 
                         <TextView
                             android:id="@+id/bank_title"
@@ -442,9 +444,8 @@
                         <ImageView
                             android:layout_width="64dp"
                             android:layout_height="64dp"
-                            android:background="@drawable/circlepink"
                             android:padding="10dp"
-                            android:src="@drawable/ic_sort_by_alpha_black_24dp" />
+                            android:src="@drawable/voca_icon" />
 
                         <TextView
                             android:id="@+id/voca_title"
@@ -485,9 +486,8 @@
                         <ImageView
                             android:layout_width="64dp"
                             android:layout_height="64dp"
-                            android:background="@drawable/circleteal"
                             android:padding="10dp"
-                            android:src="@drawable/ic_map_black_24dp" />
+                            android:src="@drawable/editorial_icon" />
 
                         <TextView
                             android:id="@+id/Editorial_title"
@@ -547,9 +547,8 @@
                         <ImageView
                             android:layout_width="64dp"
                             android:layout_height="64dp"
-                            android:background="@drawable/circlepink"
                             android:padding="10dp"
-                            android:src="@drawable/ic_send_black_24dp" />
+                            android:src="@drawable/contact_icon" />
 
                         <TextView
                             android:id="@+id/amader_title"
@@ -589,9 +588,8 @@
                         <ImageView
                             android:layout_width="64dp"
                             android:layout_height="64dp"
-                            android:background="@drawable/circleteal"
                             android:padding="10dp"
-                            android:src="@drawable/ic_shopping_cart_black_24dp" />
+                            android:src="@drawable/shop_icon" />
 
                         <TextView
                             android:id="@+id/settings_ttile"
@@ -630,11 +628,10 @@
                         android:orientation="vertical">
 
                         <ImageView
-                            android:layout_width="64dp"
+                            android:layout_width="59dp"
                             android:layout_height="64dp"
-                            android:background="@drawable/circlepurple"
                             android:padding="10dp"
-                            android:src="@drawable/ic_contact_mail_black_24dp" />
+                            android:src="@drawable/about_icon" />
 
                         <TextView
                             android:id="@+id/jog"

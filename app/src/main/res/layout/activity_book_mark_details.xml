@@ -27,6 +27,8 @@
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:layout_marginLeft="8dp"
+                android:layout_marginRight="8dp"
                 android:orientation="vertical">
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -37,6 +39,7 @@
                         android:id="@+id/adView_BOOOKMARKDETAILS3"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
+                        android:layout_gravity="center"
                         ads:adSize="BANNER"
                         ads:adUnitId="ca-app-pub-1385980455216480/1705152193"
                         >
@@ -50,6 +53,7 @@
                     android:layout_height="wrap_content"
                     android:text="Title"
                     android:fontFamily="@font/lip"
+                    android:layout_marginTop="4dp"
                     android:textColor="#000"
                     android:textSize="22sp"
                     android:textStyle="bold" />
@@ -67,6 +71,7 @@
                     android:layout_width="match_parent"
                     android:fontFamily="@font/lip"
                     android:layout_height="wrap_content"
+                    android:layout_marginBottom="4dp"
                     android:text="This will be the description of the post"
                     android:textSize="20sp"
                     />
@@ -80,6 +85,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         ads:adSize="BANNER"
+                        android:layout_gravity="center"
                         ads:adUnitId="ca-app-pub-1385980455216480/1705152193"
                         >
                     </com.google.android.gms.ads.AdView>
@@ -104,6 +110,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     ads:adSize="BANNER"
+                    android:layout_gravity="center"
                     ads:adUnitId="ca-app-pub-1385980455216480/1705152193"
                     >
                 </com.google.android.gms.ads.AdView>
