@@ -4,6 +4,23 @@
             "outputFile": "D:\\bdjob\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh-rHK\\values-zh-rHK.xml",
             "map": [
                 {
+                    "source": "C:\\Users\\Null-_-\\.gradle\\caches\\transforms-2\\files-2.1\\653fc2506a55580a17d03163e08b8ab0\\res\\values-zh-rHK\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10",
+                        "startColumns": "0,0,0,0,0,0,0",
+                        "startOffsets": "203,264,337,397,457,521,591",
+                        "endColumns": "60,72,59,59,63,69,61",
+                        "endOffsets": "263,336,396,456,520,590,652"
+                    },
+                    "to": {
+                        "startLines": "48,49,50,51,52,53,54",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "5084,5149,5226,5290,5354,5422,5496",
+                        "endColumns": "64,76,63,63,67,73,65",
+                        "endOffsets": "5144,5221,5285,5349,5417,5491,5557"
+                    }
+                },
+                {
                     "source": "C:\\Users\\Null-_-\\.gradle\\caches\\transforms-2\\files-2.1\\a238153c4684451bcdb17cb81946ef0c\\res\\values-zh-rHK\\values-zh-rHK.xml",
                     "from": {
                         "startLines": "2",
@@ -38,40 +55,6 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Null-_-\\.gradle\\caches\\transforms-2\\files-2.1\\0adb4b8184853d177b053532fd6a0b93\\res\\values-zh-rHK\\values.xml",
-                    "from": {
-                        "startLines": "4,5,6,7,8,9,10",
-                        "startColumns": "0,0,0,0,0,0,0",
-                        "startOffsets": "203,264,337,397,457,521,591",
-                        "endColumns": "60,72,59,59,63,69,61",
-                        "endOffsets": "263,336,396,456,520,590,652"
-                    },
-                    "to": {
-                        "startLines": "48,49,50,51,52,53,54",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "5084,5149,5226,5290,5354,5422,5496",
-                        "endColumns": "64,76,63,63,67,73,65",
-                        "endOffsets": "5144,5221,5285,5349,5417,5491,5557"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Null-_-\\.gradle\\caches\\transforms-2\\files-2.1\\fb8060d7bd82c8f7482068e40fb132ca\\res\\values-zh-rHK\\values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "209",
-                        "endColumns": "96",
-                        "endOffsets": "305"
-                    },
-                    "to": {
-                        "startLines": "47",
-                        "startColumns": "4",
-                        "startOffsets": "4983",
-                        "endColumns": "100",
-                        "endOffsets": "5079"
-                    }
-                },
-                {
                     "source": "C:\\Users\\Null-_-\\.gradle\\caches\\transforms-2\\files-2.1\\e5ba984a1b9891b2a24160fa6ba0dabc\\res\\values-zh-rHK\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
@@ -103,6 +86,23 @@
                         "startOffsets": "3690",
                         "endColumns": "166",
                         "endOffsets": "3852"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Null-_-\\.gradle\\caches\\transforms-2\\files-2.1\\47eaa9f345e098e44cff90a916b187cd\\res\\values-zh-rHK\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "209",
+                        "endColumns": "96",
+                        "endOffsets": "305"
+                    },
+                    "to": {
+                        "startLines": "47",
+                        "startColumns": "4",
+                        "startOffsets": "4983",
+                        "endColumns": "100",
+                        "endOffsets": "5079"
                     }
                 }
             ]

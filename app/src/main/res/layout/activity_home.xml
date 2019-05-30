@@ -27,6 +27,7 @@
                 android:layout_height="wrap_content"
                 android:padding="6dp"
                 android:text="বিশেষ"
+                android:fontFamily="@font/lip"
                 android:background="@color/lightgray"
                 android:textColor="#000"
                 android:textSize="16sp"
@@ -230,6 +231,7 @@
                 android:layout_height="wrap_content"
                 android:padding="6dp"
                 android:text="প্রস্তুতি সহায়িকা"
+                android:fontFamily="@font/lip"
                 android:textColor="#000"
                 android:background="@color/lightgray"
                 android:textSize="16sp"
@@ -455,6 +457,7 @@
                             android:layout_height="wrap_content"
                             android:layout_marginTop="10dp"
                             android:text="সম্পাদকীয়"
+                            android:fontFamily="@font/lip"
                             android:textSize="15sp"
                             android:textStyle="bold" />
 
@@ -633,7 +636,7 @@
                     android:layout_alignParentBottom="true"
                     android:layout_centerHorizontal="true"
                     ads:adSize="BANNER"
-                    ads:adUnitId="ca-app-pub-1385980455216480/1705152193">
+                    ads:adUnitId="@string/adUnitId">
 
                 </com.google.android.gms.ads.AdView>
             </LinearLayout>

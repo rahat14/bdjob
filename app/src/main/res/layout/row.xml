@@ -45,7 +45,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Walton Group"
-                    android:fontFamily="@font/lip"
+
                     android:textStyle="bold"
                     android:layout_marginLeft="10dp"
                     android:textSize="18sp"/>
@@ -56,7 +56,6 @@
                     android:text="This will be the description of the post"
                     android:textSize="20sp"
                     android:ellipsize="marquee"
-                    android:fontFamily="@font/lip"
                     android:singleLine="true"
                     android:textStyle="bold"
                    />

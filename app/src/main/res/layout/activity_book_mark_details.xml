@@ -41,7 +41,7 @@
                         android:layout_height="wrap_content"
                         android:layout_gravity="center"
                         ads:adSize="BANNER"
-                        ads:adUnitId="ca-app-pub-1385980455216480/1705152193"
+                        ads:adUnitId="@string/adUnitId"
                         >
                     </com.google.android.gms.ads.AdView>
                 </LinearLayout>
@@ -86,7 +86,7 @@
                         android:layout_height="wrap_content"
                         ads:adSize="BANNER"
                         android:layout_gravity="center"
-                        ads:adUnitId="ca-app-pub-1385980455216480/1705152193"
+                        ads:adUnitId="@string/adUnitId"
                         >
                     </com.google.android.gms.ads.AdView>
                 </LinearLayout>
@@ -111,7 +111,7 @@
                     android:layout_height="wrap_content"
                     ads:adSize="BANNER"
                     android:layout_gravity="center"
-                    ads:adUnitId="ca-app-pub-1385980455216480/1705152193"
+                    ads:adUnitId="@string/adUnitId"
                     >
                 </com.google.android.gms.ads.AdView>
             </LinearLayout>

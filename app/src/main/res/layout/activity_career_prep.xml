@@ -7,13 +7,13 @@
     android:fitsSystemWindows="true"
     android:layout_height="match_parent"
 
-    tools:context="com.syntexterror.bdjobsolution.NotificationActivity">
+    tools:context="com.sysmela.bdjobsolution.NotificationActivity">
 
     <LinearLayout
         android:id="@+id/notification_activity"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="@drawable/background_gradient">
+        android:background="#fff">
 
 
     <ScrollView
@@ -32,7 +32,7 @@
                 android:layout_height="wrap_content"
                 ads:adSize="BANNER"
                 android:layout_gravity="center"
-                ads:adUnitId="ca-app-pub-1385980455216480/1705152193"
+                ads:adUnitId="@string/adUnitId"
                 >
             </com.google.android.gms.ads.AdView>
             <TextView
@@ -242,7 +242,7 @@
                 android:layout_height="wrap_content"
                 ads:adSize="BANNER"
                 android:layout_gravity="center"
-                ads:adUnitId="ca-app-pub-1385980455216480/1705152193"
+                ads:adUnitId="@string/adUnitId"
                 >
             </com.google.android.gms.ads.AdView>
             <TextView
@@ -611,7 +611,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 ads:adSize="BANNER"
-                ads:adUnitId="ca-app-pub-1385980455216480/1705152193"
+                ads:adUnitId="@string/adUnitId"
                 >
             </com.google.android.gms.ads.AdView>
         </LinearLayout>

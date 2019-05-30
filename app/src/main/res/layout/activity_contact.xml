@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:id="@+id/contact_activity_DrawerID"
-    tools:context="com.syntexterror.bdjobsolution.ContactActivity">
+    tools:context="com.sysmela.bdjobsolution.ContactActivity">
 
     <LinearLayout
         android:layout_width="match_parent"

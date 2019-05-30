@@ -1,4 +1,0 @@
-#Thu May 30 13:47:28 BDT 2019
-base.0=D\:\\bdjob\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\7
-path.0=classes.dex
-renamed.0=classes.dex

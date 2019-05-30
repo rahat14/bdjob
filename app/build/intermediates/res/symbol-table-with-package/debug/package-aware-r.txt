@@ -1,4 +1,4 @@
-com.metacoders.home
+com.sysmela.bdjobsolution
 anim abc_fade_in
 anim abc_fade_out
 anim abc_grow_fade_in_from_bottom
@@ -1032,7 +1032,7 @@ drawable bangla_icon
 drawable bank_icon
 drawable bcs_icon
 drawable bd_topic_icon
-drawable bellicon
+drawable bell
 drawable bishes_icon
 drawable bishesh_icon
 drawable bookmarkicon
@@ -1573,7 +1573,6 @@ id setting_layout
 id settings_Button
 id settings_ttile
 id shareBtn
-id shop_activity
 id shortcut
 id showCustom
 id showHome
@@ -1615,7 +1614,6 @@ id text2
 id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
-id textView
 id textView2
 id text_input_password_toggle
 id textinput_counter
@@ -1705,7 +1703,6 @@ layout activity_about
 layout activity_article
 layout activity_bank__prep
 layout activity_bcs
-layout activity_bcs__prep__post__deatils
 layout activity_bcs_button
 layout activity_bises
 layout activity_bises_post_detail
@@ -1730,7 +1727,6 @@ layout activity_govt_job_prep
 layout activity_home
 layout activity_jobs
 layout activity_login
-layout activity_loginactivity
 layout activity_nottification_page
 layout activity_post_detail
 layout activity_post_details_for__career_prep_by_subject
@@ -1743,10 +1739,8 @@ layout activity_qustion__bank
 layout activity_register2
 layout activity_settings
 layout activity_shikok_nivondon
-layout activity_shop
 layout activity_shop2
 layout activity_signin_page
-layout activity_syllabus
 layout activity_under__bcs__button__qustion_bank
 layout activity_under__bcs_prep__button
 layout activity_voc_post_detail

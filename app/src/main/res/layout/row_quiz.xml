@@ -36,7 +36,6 @@
                 android:textStyle="bold"
                 android:textSize="20sp"
                 android:ellipsize="marquee"
-                android:fontFamily="@font/lip"
                 android:singleLine="true"
                 android:text="this is a  Demo text "
                 android:id="@+id/title_quiz"

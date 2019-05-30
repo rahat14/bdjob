@@ -22,7 +22,7 @@
             android:layout_marginBottom="5dp"
             android:layout_marginTop="5dp"
             android:layout_gravity="center"
-            android:fontFamily="@font/lip"
+
             android:orientation="vertical">
 
             <TextView
@@ -31,7 +31,7 @@
                 android:layout_height="wrap_content"
                 android:text="Title"
                 android:textColor="#000"
-                android:fontFamily="@font/lip"
+
                 android:textSize="22sp"
                 android:textStyle="bold" />
 

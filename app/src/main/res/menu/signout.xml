@@ -6,12 +6,12 @@
 
     <item
         android:id="@+id/nottfication_btn"
-        android:title="Notifications"
-        android:icon="@drawable/bellicon"
-        app:showAsAction="always"/>
+        android:title="Notification"
+        android:icon="@drawable/bell"
+        app:showAsAction="ifRoom"/>
     <item
         android:id="@+id/sign_out_btn"
-        android:title="Sign Out"
+        android:title="Log Out"
         app:showAsAction="never"
         />
 

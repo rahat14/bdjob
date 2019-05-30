@@ -28,7 +28,7 @@
                 android:layout_height="wrap_content"
                 android:text="Title"
                 android:textColor="#000"
-                android:fontFamily="@font/lip"
+
                 android:textSize="22sp"
                 android:textStyle="bold" />
 
@@ -39,7 +39,6 @@
                 android:layout_marginLeft="3dp"
                 android:ellipsize="marquee"
                 android:singleLine="true"
-                android:fontFamily="@font/lip"
                 android:text="This will be the description of the post"
                 android:textSize="18sp"
                 android:textStyle="bold" />

@@ -38,20 +38,20 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Null-_-\\.gradle\\caches\\transforms-2\\files-2.1\\0adb4b8184853d177b053532fd6a0b93\\res\\values-in\\values.xml",
+                    "source": "C:\\Users\\Null-_-\\.gradle\\caches\\transforms-2\\files-2.1\\47eaa9f345e098e44cff90a916b187cd\\res\\values-in\\values.xml",
                     "from": {
-                        "startLines": "4,5,6,7,8,9,10",
-                        "startColumns": "0,0,0,0,0,0,0",
-                        "startOffsets": "199,269,373,437,500,577,672",
-                        "endColumns": "69,103,63,62,76,94,66",
-                        "endOffsets": "268,372,436,499,576,671,738"
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "205",
+                        "endColumns": "103",
+                        "endOffsets": "308"
                     },
                     "to": {
-                        "startLines": "48,49,50,51,52,53,54",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "5601,5675,5783,5851,5918,5999,6098",
-                        "endColumns": "73,107,67,66,80,98,70",
-                        "endOffsets": "5670,5778,5846,5913,5994,6093,6164"
+                        "startLines": "47",
+                        "startColumns": "4",
+                        "startOffsets": "5493",
+                        "endColumns": "107",
+                        "endOffsets": "5596"
                     }
                 },
                 {
@@ -89,20 +89,20 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Null-_-\\.gradle\\caches\\transforms-2\\files-2.1\\fb8060d7bd82c8f7482068e40fb132ca\\res\\values-in\\values.xml",
+                    "source": "C:\\Users\\Null-_-\\.gradle\\caches\\transforms-2\\files-2.1\\653fc2506a55580a17d03163e08b8ab0\\res\\values-in\\values.xml",
                     "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "205",
-                        "endColumns": "103",
-                        "endOffsets": "308"
+                        "startLines": "4,5,6,7,8,9,10",
+                        "startColumns": "0,0,0,0,0,0,0",
+                        "startOffsets": "199,269,373,437,500,577,672",
+                        "endColumns": "69,103,63,62,76,94,66",
+                        "endOffsets": "268,372,436,499,576,671,738"
                     },
                     "to": {
-                        "startLines": "47",
-                        "startColumns": "4",
-                        "startOffsets": "5493",
-                        "endColumns": "107",
-                        "endOffsets": "5596"
+                        "startLines": "48,49,50,51,52,53,54",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "5601,5675,5783,5851,5918,5999,6098",
+                        "endColumns": "73,107,67,66,80,98,70",
+                        "endOffsets": "5670,5778,5846,5913,5994,6093,6164"
                     }
                 }
             ]

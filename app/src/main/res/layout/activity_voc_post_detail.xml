@@ -40,7 +40,7 @@ tools:context=".Voc_post_detail">
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 ads:adSize="BANNER"
-                ads:adUnitId="ca-app-pub-1385980455216480/1705152193"
+                ads:adUnitId="@string/adUnitId"
                 >
             </com.google.android.gms.ads.AdView>
         </LinearLayout>

@@ -8,7 +8,7 @@
    
     android:id="@+id/post_list_drawerId"
     android:fitsSystemWindows="true"
-    tools:context="com.syntexterror.bdjobsolution.PostsListActivity">
+    tools:context="com.sysmela.bdjobsolution.PostsListActivity">
 
 
 
@@ -28,7 +28,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             ads:adSize="BANNER"
-            ads:adUnitId="ca-app-pub-1385980455216480/1705152193"
+            ads:adUnitId="@string/adUnitId"
             >
         </com.google.android.gms.ads.AdView>
 

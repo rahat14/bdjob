@@ -38,20 +38,20 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Null-_-\\.gradle\\caches\\transforms-2\\files-2.1\\0adb4b8184853d177b053532fd6a0b93\\res\\values-es\\values.xml",
+                    "source": "C:\\Users\\Null-_-\\.gradle\\caches\\transforms-2\\files-2.1\\47eaa9f345e098e44cff90a916b187cd\\res\\values-es\\values.xml",
                     "from": {
-                        "startLines": "4,5,6,7,8,9,10",
-                        "startColumns": "0,0,0,0,0,0,0",
-                        "startOffsets": "199,270,397,462,528,612,724",
-                        "endColumns": "70,126,64,65,83,111,74",
-                        "endOffsets": "269,396,461,527,611,723,798"
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "205",
+                        "endColumns": "100",
+                        "endOffsets": "305"
                     },
                     "to": {
-                        "startLines": "48,49,50,51,52,53,54",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "5773,5848,5979,6048,6118,6206,6322",
-                        "endColumns": "74,130,68,69,87,115,78",
-                        "endOffsets": "5843,5974,6043,6113,6201,6317,6396"
+                        "startLines": "47",
+                        "startColumns": "4",
+                        "startOffsets": "5668",
+                        "endColumns": "104",
+                        "endOffsets": "5768"
                     }
                 },
                 {
@@ -72,23 +72,6 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Null-_-\\.gradle\\caches\\transforms-2\\files-2.1\\fb8060d7bd82c8f7482068e40fb132ca\\res\\values-es\\values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "205",
-                        "endColumns": "100",
-                        "endOffsets": "305"
-                    },
-                    "to": {
-                        "startLines": "47",
-                        "startColumns": "4",
-                        "startOffsets": "5668",
-                        "endColumns": "104",
-                        "endOffsets": "5768"
-                    }
-                },
-                {
                     "source": "C:\\Users\\Null-_-\\.gradle\\caches\\transforms-2\\files-2.1\\e5ba984a1b9891b2a24160fa6ba0dabc\\res\\values-es\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
@@ -103,6 +86,23 @@
                         "startOffsets": "2842,2952,3147,3280,3390,3610,3745,3897,4255,4506,4617,4813,4947,5171,5358,5455,5554",
                         "endColumns": "109,194,132,109,219,134,151,138,250,110,195,133,223,186,96,98,113",
                         "endOffsets": "2947,3142,3275,3385,3605,3740,3892,4031,4501,4612,4808,4942,5166,5353,5450,5549,5663"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Null-_-\\.gradle\\caches\\transforms-2\\files-2.1\\653fc2506a55580a17d03163e08b8ab0\\res\\values-es\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10",
+                        "startColumns": "0,0,0,0,0,0,0",
+                        "startOffsets": "199,270,397,462,528,612,724",
+                        "endColumns": "70,126,64,65,83,111,74",
+                        "endOffsets": "269,396,461,527,611,723,798"
+                    },
+                    "to": {
+                        "startLines": "48,49,50,51,52,53,54",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "5773,5848,5979,6048,6118,6206,6322",
+                        "endColumns": "74,130,68,69,87,115,78",
+                        "endOffsets": "5843,5974,6043,6113,6201,6317,6396"
                     }
                 }
             ]

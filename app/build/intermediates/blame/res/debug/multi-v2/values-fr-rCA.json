@@ -21,20 +21,20 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Null-_-\\.gradle\\caches\\transforms-2\\files-2.1\\fb8060d7bd82c8f7482068e40fb132ca\\res\\values-fr-rCA\\values.xml",
+                    "source": "C:\\Users\\Null-_-\\.gradle\\caches\\transforms-2\\files-2.1\\653fc2506a55580a17d03163e08b8ab0\\res\\values-fr-rCA\\values.xml",
                     "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "209",
-                        "endColumns": "100",
-                        "endOffsets": "309"
+                        "startLines": "4,5,6,7,8,9,10",
+                        "startColumns": "0,0,0,0,0,0,0",
+                        "startOffsets": "203,280,404,470,535,626,741",
+                        "endColumns": "76,123,65,64,90,114,69",
+                        "endOffsets": "279,403,469,534,625,740,810"
                     },
                     "to": {
-                        "startLines": "47",
-                        "startColumns": "4",
-                        "startOffsets": "5780",
-                        "endColumns": "104",
-                        "endOffsets": "5880"
+                        "startLines": "48,49,50,51,52,53,54",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "5885,5966,6094,6164,6233,6328,6447",
+                        "endColumns": "80,127,69,68,94,118,73",
+                        "endOffsets": "5961,6089,6159,6228,6323,6442,6516"
                     }
                 },
                 {
@@ -72,20 +72,20 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Null-_-\\.gradle\\caches\\transforms-2\\files-2.1\\0adb4b8184853d177b053532fd6a0b93\\res\\values-fr-rCA\\values.xml",
+                    "source": "C:\\Users\\Null-_-\\.gradle\\caches\\transforms-2\\files-2.1\\47eaa9f345e098e44cff90a916b187cd\\res\\values-fr-rCA\\values.xml",
                     "from": {
-                        "startLines": "4,5,6,7,8,9,10",
-                        "startColumns": "0,0,0,0,0,0,0",
-                        "startOffsets": "203,280,404,470,535,626,741",
-                        "endColumns": "76,123,65,64,90,114,69",
-                        "endOffsets": "279,403,469,534,625,740,810"
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "209",
+                        "endColumns": "100",
+                        "endOffsets": "309"
                     },
                     "to": {
-                        "startLines": "48,49,50,51,52,53,54",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "5885,5966,6094,6164,6233,6328,6447",
-                        "endColumns": "80,127,69,68,94,118,73",
-                        "endOffsets": "5961,6089,6159,6228,6323,6442,6516"
+                        "startLines": "47",
+                        "startColumns": "4",
+                        "startOffsets": "5780",
+                        "endColumns": "104",
+                        "endOffsets": "5880"
                     }
                 },
                 {

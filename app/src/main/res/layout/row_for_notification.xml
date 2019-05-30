@@ -26,7 +26,7 @@
             android:layout_marginBottom="5dp"
             android:layout_marginTop="5dp"
             android:layout_gravity="center"
-            android:fontFamily="@font/lip"
+
             android:orientation="vertical">
 
             <TextView
@@ -34,7 +34,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="3dp"
-                android:fontFamily="@font/lip"
+
                 android:text="This is a title For THe Nottifications"
                 android:textSize="18sp"
                 android:textStyle="bold" />
