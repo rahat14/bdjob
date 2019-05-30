@@ -109,10 +109,7 @@ public class PostsListActivity extends AppCompatActivity  {
                         startActivity(i);
                         break;
 
-                    case R.id.profile_menu:
-                        i = new Intent(getApplicationContext(), profileActivity.class);
-                        startActivity(i);
-                        break;
+
                     case R.id.noticeBoard_prep_menu:
                         Intent notiice = new Intent(getApplicationContext() ,ArticleActivity.class);
                         startActivity(notiice);
@@ -121,10 +118,7 @@ public class PostsListActivity extends AppCompatActivity  {
                         Intent bises = new Intent(getApplicationContext() ,Bises.class);
                         startActivity(bises);
                         break;
-                    case R.id.Quiz_prep_menu:
-                        Intent quiz = new Intent(getApplicationContext() ,QuizActivity.class);
-                        startActivity(quiz);
-                        break;
+
                     case R.id.Samprotik_prep_menu:
                         Intent sam = new Intent(getApplicationContext() ,Current_Activity.class);
                         startActivity(sam);
@@ -137,10 +131,7 @@ public class PostsListActivity extends AppCompatActivity  {
                         Intent edo = new Intent(getApplicationContext() ,Editorial.class);
                         startActivity(edo);
                         break;
-                    case R.id.Shop_prep_menu:
-                        Intent shop = new Intent(getApplicationContext() ,Shop.class);
-                        startActivity(shop);
-                        break;
+
                     case R.id.contact_us_menu:
                         Intent con = new Intent(getApplicationContext() ,ContactActivity.class);
                         startActivity(con);

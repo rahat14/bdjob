@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:2:1-105:12
-INJECTED from D:\bdjob\app\src\main\AndroidManifest.xml:2:1-105:12
-INJECTED from D:\bdjob\app\src\main\AndroidManifest.xml:2:1-105:12
-INJECTED from D:\bdjob\app\src\main\AndroidManifest.xml:2:1-105:12
+ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:2:1-103:12
+INJECTED from D:\bdjob\app\src\main\AndroidManifest.xml:2:1-103:12
+INJECTED from D:\bdjob\app\src\main\AndroidManifest.xml:2:1-103:12
+INJECTED from D:\bdjob\app\src\main\AndroidManifest.xml:2:1-103:12
 MERGED from [com.android.support:design:28.0.0] C:\Users\Null-_-\.gradle\caches\transforms-2\files-2.1\c9b0591913ddb2d123cc8f26f5688daf\AndroidManifest.xml:17:1-24:12
 MERGED from [com.firebaseui:firebase-ui-database:0.4.0] C:\Users\Null-_-\.gradle\caches\transforms-2\files-2.1\cbdd91aba428f572512e09b7203f5fca\AndroidManifest.xml:2:1-13:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Null-_-\.gradle\caches\transforms-2\files-2.1\1e56cb0859248889815e308c311d3945\AndroidManifest.xml:17:1-22:12
@@ -82,22 +82,22 @@ MERGED from [com.crashlytics.sdk.android:answers:1.4.2] C:\Users\Null-_-\.gradle
 MERGED from [io.fabric.sdk.android:fabric:1.4.3] C:\Users\Null-_-\.gradle\caches\transforms-2\files-2.1\a1b5cbd598029ba0c661c4d5a00c29fa\AndroidManifest.xml:22:1-33:12
 MERGED from [com.google.android.gms:play-services-ads-base:17.2.0] C:\Users\Null-_-\.gradle\caches\transforms-2\files-2.1\aaa06f9be12c21adf6cf77395e73b1a6\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-location-license:12.0.1] C:\Users\Null-_-\.gradle\caches\transforms-2\files-2.1\7a43bb11ede6bb2ea000977b4bb2e2aa\AndroidManifest.xml:17:1-24:12
-INJECTED from D:\bdjob\app\src\main\AndroidManifest.xml:2:1-105:12
-INJECTED from D:\bdjob\app\src\main\AndroidManifest.xml:2:1-105:12
-INJECTED from D:\bdjob\app\src\main\AndroidManifest.xml:2:1-105:12
+INJECTED from D:\bdjob\app\src\main\AndroidManifest.xml:2:1-103:12
+INJECTED from D:\bdjob\app\src\main\AndroidManifest.xml:2:1-103:12
+INJECTED from D:\bdjob\app\src\main\AndroidManifest.xml:2:1-103:12
 	package
 		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:4:5-45
 		INJECTED from D:\bdjob\app\src\main\AndroidManifest.xml
 		INJECTED from D:\bdjob\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from D:\bdjob\app\src\main\AndroidManifest.xml
-		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:2:1-105:12
+		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:2:1-103:12
 		INJECTED from D:\bdjob\app\src\main\AndroidManifest.xml
 	xmlns:tools
 		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from D:\bdjob\app\src\main\AndroidManifest.xml
-		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:2:1-105:12
+		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:2:1-103:12
 		INJECTED from D:\bdjob\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:2:11-69
@@ -174,7 +174,7 @@ ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:10:5-81
 	android:name
 		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:10:22-78
 application
-ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:12:5-103:19
+ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:12:5-101:19
 MERGED from [com.android.support:design:28.0.0] C:\Users\Null-_-\.gradle\caches\transforms-2\files-2.1\c9b0591913ddb2d123cc8f26f5688daf\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:design:28.0.0] C:\Users\Null-_-\.gradle\caches\transforms-2\files-2.1\c9b0591913ddb2d123cc8f26f5688daf\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Null-_-\.gradle\caches\transforms-2\files-2.1\6f9a369b927ca4b8d5a7638c4df1ac55\AndroidManifest.xml:9:5-20
@@ -318,211 +318,209 @@ ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:30:9-32:70
 	android:name
 		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:31:13-69
 activity#com.syntexterror.bdjobsolution.SplashScreen
-ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:34:9-42:20
+ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:34:9-38:20
 	android:theme
 		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:36:13-42
 	android:name
 		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:35:13-71
-intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:37:13-41:29
-action#android.intent.action.MAIN
-ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:38:17-69
-	android:name
-		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:38:25-66
-category#android.intent.category.LAUNCHER
-ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:40:17-77
-	android:name
-		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:40:27-74
 activity#com.syntexterror.bdjobsolution.Home_Activity
-ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:43:9-49:20
+ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:39:9-47:20
 	android:launchMode
-		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:45:13-43
+		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:41:13-43
 	android:name
-		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:44:13-72
-intent-filter#action:name:android.intent.action.MAIN
-ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:46:13-48:29
+		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:40:13-72
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:42:13-46:29
+action#android.intent.action.MAIN
+ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:43:17-69
+	android:name
+		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:43:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:45:17-77
+	android:name
+		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:45:27-74
 activity#com.syntexterror.bdjobsolution.JobsActivity
+ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:48:9-80
+	android:name
+		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:48:19-77
+activity#com.syntexterror.bdjobsolution.NotificationActivity
+ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:49:9-88
+	android:name
+		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:49:19-85
+activity#com.syntexterror.bdjobsolution.QuizActivity
 ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:50:9-80
 	android:name
 		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:50:19-77
-activity#com.syntexterror.bdjobsolution.NotificationActivity
-ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:51:9-88
-	android:name
-		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:51:19-85
-activity#com.syntexterror.bdjobsolution.QuizActivity
-ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:52:9-80
-	android:name
-		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:52:19-77
 activity#com.syntexterror.bdjobsolution.ContactActivity
-ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:53:9-83
+ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:51:9-83
 	android:name
-		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:53:19-80
+		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:51:19-80
 activity#com.syntexterror.bdjobsolution.SettingsActivity
-ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:54:9-84
+ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:52:9-84
 	android:name
-		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:54:19-81
+		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:52:19-81
 activity#com.syntexterror.bdjobsolution.AboutActivity
-ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:55:9-81
+ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:53:9-81
 	android:name
-		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:55:19-78
+		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:53:19-78
 activity#com.syntexterror.bdjobsolution.ArticleActivity
-ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:56:9-83
+ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:54:9-83
 	android:name
-		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:56:19-80
+		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:54:19-80
 activity#com.syntexterror.bdjobsolution.PostsListActivity
-ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:57:9-85
+ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:55:9-85
 	android:name
-		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:57:19-82
+		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:55:19-82
 activity#com.syntexterror.bdjobsolution.PostDetailActivity
-ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:58:9-86
+ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:56:9-86
 	android:name
-		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:58:19-83
+		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:56:19-83
 activity#com.syntexterror.bdjobsolution.WPPostDetails
-ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:59:9-81
+ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:57:9-81
 	android:name
-		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:59:19-78
+		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:57:19-78
 activity#com.syntexterror.bdjobsolution.Wp_Quiz_details
-ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:60:9-83
+ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:58:9-83
 	android:name
-		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:60:19-80
+		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:58:19-80
 meta-data#io.fabric.ApiKey
-ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:62:9-64:72
+ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:60:9-62:72
 	android:value
-		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:64:13-69
+		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:62:13-69
 	android:name
-		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:63:13-44
+		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:61:13-44
 activity#com.syntexterror.bdjobsolution.Voca_activity
-ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:66:9-81
+ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:64:9-81
 	android:name
-		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:66:19-78
+		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:64:19-78
 activity#com.syntexterror.bdjobsolution.Voc_post_detail
+ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:65:9-83
+	android:name
+		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:65:19-80
+activity#com.syntexterror.bdjobsolution.Qustion_Bank
+ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:66:9-80
+	android:name
+		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:66:19-77
+activity#com.syntexterror.bdjobsolution.qus_bank_detail
 ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:67:9-83
 	android:name
 		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:67:19-80
-activity#com.syntexterror.bdjobsolution.Qustion_Bank
-ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:68:9-80
-	android:name
-		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:68:19-77
-activity#com.syntexterror.bdjobsolution.qus_bank_detail
-ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:69:9-83
-	android:name
-		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:69:19-80
 activity#com.syntexterror.bdjobsolution.BcsActivity
-ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:70:9-79
+ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:68:9-79
 	android:name
-		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:70:19-76
+		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:68:19-76
 activity#com.syntexterror.bdjobsolution.SyllabusActivity
-ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:71:9-84
+ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:69:9-84
 	android:name
-		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:71:19-81
+		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:69:19-81
 activity#com.syntexterror.bdjobsolution.BcsButtonActivity
+ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:70:9-85
+	android:name
+		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:70:19-82
+activity#com.syntexterror.bdjobsolution.Bises
+ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:71:9-73
+	android:name
+		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:71:19-70
+activity#com.syntexterror.bdjobsolution.bises_post_detail
 ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:72:9-85
 	android:name
 		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:72:19-82
-activity#com.syntexterror.bdjobsolution.Bises
-ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:73:9-73
-	android:name
-		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:73:19-70
-activity#com.syntexterror.bdjobsolution.bises_post_detail
-ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:74:9-85
-	android:name
-		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:74:19-82
 activity#com.syntexterror.bdjobsolution.Current_Activity
+ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:73:9-84
+	android:name
+		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:73:19-81
+activity#com.syntexterror.bdjobsolution.Current_Post_Detail
+ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:74:9-87
+	android:name
+		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:74:19-84
+activity#com.syntexterror.bdjobsolution.Feature_Activity
 ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:75:9-84
 	android:name
 		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:75:19-81
-activity#com.syntexterror.bdjobsolution.Current_Post_Detail
-ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:76:9-87
-	android:name
-		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:76:19-84
-activity#com.syntexterror.bdjobsolution.Feature_Activity
-ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:77:9-84
-	android:name
-		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:77:19-81
 activity#com.syntexterror.bdjobsolution.Feature_Detail_Activity
-ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:78:9-91
+ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:76:9-91
 	android:name
-		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:78:19-88
+		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:76:19-88
 activity#com.syntexterror.bdjobsolution.Bcs_Prep_POst_DeatilsActivity
-ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:79:9-97
+ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:77:9-97
 	android:name
-		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:79:19-94
+		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:77:19-94
 activity#com.syntexterror.bdjobsolution.Govt_job_prep
-ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:80:9-81
+ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:78:9-81
 	android:name
-		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:80:19-78
+		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:78:19-78
 activity#com.syntexterror.bdjobsolution.Bank_Prep
-ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:81:9-77
+ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:79:9-77
 	android:name
-		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:81:19-74
+		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:79:19-74
 activity#com.syntexterror.bdjobsolution.Shikok_nivondon
-ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:82:9-83
+ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:80:9-83
 	android:name
-		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:82:19-80
+		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:80:19-80
 activity#com.syntexterror.bdjobsolution.postDetails_for_Career_prep_by_subject
-ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:83:9-106
+ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:81:9-106
 	android:name
-		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:83:19-103
+		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:81:19-103
 activity#com.syntexterror.bdjobsolution.career_prep_Bangla
-ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:84:9-86
+ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:82:9-86
 	android:name
-		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:84:19-83
+		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:82:19-83
 service#com.syntexterror.bdjobsolution.persistant_service
-ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:86:9-89:39
+ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:84:9-87:39
 	android:enabled
-		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:88:13-35
+		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:86:13-35
 	android:exported
-		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:89:13-36
+		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:87:13-36
 	android:name
-		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:87:13-77
+		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:85:13-77
 activity#com.syntexterror.bdjobsolution.career_prep_Eng
+ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:89:9-83
+	android:name
+		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:89:19-80
+activity#com.syntexterror.bdjobsolution.career_prep_Math
+ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:90:9-84
+	android:name
+		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:90:19-81
+activity#com.syntexterror.bdjobsolution.career_prep_ict
 ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:91:9-83
 	android:name
 		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:91:19-80
-activity#com.syntexterror.bdjobsolution.career_prep_Math
-ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:92:9-84
-	android:name
-		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:92:19-81
-activity#com.syntexterror.bdjobsolution.career_prep_ict
-ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:93:9-83
-	android:name
-		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:93:19-80
 activity#com.syntexterror.bdjobsolution.career_prep_Bangladesh
-ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:94:9-90
+ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:92:9-90
 	android:name
-		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:94:19-87
+		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:92:19-87
 activity#com.syntexterror.bdjobsolution.career_prep_International
-ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:95:9-93
+ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:93:9-93
 	android:name
-		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:95:19-90
+		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:93:19-90
 activity#com.syntexterror.bdjobsolution.career_prep_GK
-ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:96:9-82
+ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:94:9-82
 	android:name
-		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:96:19-79
+		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:94:19-79
 activity#com.syntexterror.bdjobsolution.career_prep_Others
-ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:97:9-86
+ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:95:9-86
 	android:name
-		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:97:19-83
+		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:95:19-83
 activity#com.syntexterror.bdjobsolution.Under_Bcs_prep_Button
-ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:98:9-89
+ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:96:9-89
 	android:name
-		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:98:19-86
+		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:96:19-86
 activity#com.syntexterror.bdjobsolution.Under_Bcs_Button_QustionBank
-ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:99:9-96
+ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:97:9-96
 	android:name
-		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:99:19-93
+		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:97:19-93
 activity#com.syntexterror.bdjobsolution.Editorial
-ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:100:9-77
+ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:98:9-77
 	android:name
-		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:100:19-74
+		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:98:19-74
 activity#com.syntexterror.bdjobsolution.ShopActivity
-ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:101:9-80
+ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:99:9-80
 	android:name
-		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:101:19-77
+		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:99:19-77
 activity#com.syntexterror.bdjobsolution.Shop
-ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:102:9-72
+ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:100:9-72
 	android:name
-		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:102:19-69
+		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:100:19-69
 uses-sdk
 INJECTED from D:\bdjob\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\bdjob\app\src\main\AndroidManifest.xml

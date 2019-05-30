@@ -117,10 +117,7 @@ public class Home_Activity extends AppCompatActivity implements View.OnClickList
                         Intent bises = new Intent(getApplicationContext(), Bises.class);
                         startActivity(bises);
                         break;
-                    case R.id.Quiz_prep_menu:
-                        Intent quiz = new Intent(getApplicationContext(), QuizActivity.class);
-                        startActivity(quiz);
-                        break;
+
                     case R.id.Samprotik_prep_menu:
                         Intent sam = new Intent(getApplicationContext(), Current_Activity.class);
                         startActivity(sam);
@@ -130,10 +127,7 @@ public class Home_Activity extends AppCompatActivity implements View.OnClickList
                         startActivity(i);
                         break;
 
-                    case R.id.profile_menu:
-                        i = new Intent(getApplicationContext(), profileActivity.class);
-                        startActivity(i);
-                        break;
+
                     case R.id.Voca_prep_menu:
                         Intent voca = new Intent(getApplicationContext(), Voca_activity.class);
                         startActivity(voca);
@@ -142,10 +136,8 @@ public class Home_Activity extends AppCompatActivity implements View.OnClickList
                         Intent edo = new Intent(getApplicationContext(), Editorial.class);
                         startActivity(edo);
                         break;
-                    case R.id.Shop_prep_menu:
-                        Intent shop = new Intent(getApplicationContext(), Shop.class);
-                        startActivity(shop);
-                        break;
+
+
                     case R.id.contact_us_menu:
                         Intent con = new Intent(getApplicationContext(), ContactActivity.class);
                         startActivity(con);
@@ -233,9 +225,9 @@ public class Home_Activity extends AppCompatActivity implements View.OnClickList
         Typeface face3 = Typeface.createFromAsset(getAssets(), "fonts/SolaimanLipi_29-05-06.ttf");
         bTitle.setTypeface(face3);
 
-        TextView notFeture = (TextView) findViewById(R.id.feature_title);
-        Typeface face2featre = Typeface.createFromAsset(getAssets(), "fonts/SolaimanLipi_29-05-06.ttf");
-        notFeture.setTypeface(face2featre);
+       // TextView notFeture = (TextView) findViewById(R.id.feature_title);
+     //   Typeface face2featre = Typeface.createFromAsset(getAssets(), "fonts/SolaimanLipi_29-05-06.ttf");
+      //  notFeture.setTypeface(face2featre);
 
 
         TextView notCurrent = (TextView) findViewById(R.id.current_title);
@@ -255,7 +247,7 @@ public class Home_Activity extends AppCompatActivity implements View.OnClickList
         edotrial_btn = (CardView) findViewById(R.id.video_Button);
         jobsButton = (CardView) findViewById(R.id.jobs_Button);
         notificationButton = (CardView) findViewById(R.id.notification_Button);
-        quizButton = (CardView) findViewById(R.id.quiz_Button);
+       // quizButton = (CardView) findViewById(R.id.quiz_Button);
         articleButton = (CardView) findViewById(R.id.article_Button);
         current_Button = (CardView) findViewById(R.id.current_Button);
         contactButton = (CardView) findViewById(R.id.contact_Button);
@@ -270,7 +262,7 @@ public class Home_Activity extends AppCompatActivity implements View.OnClickList
 
         jobsButton.setOnClickListener(this);
         notificationButton.setOnClickListener(this);
-        quizButton.setOnClickListener(this);
+    //    quizButton.setOnClickListener(this);
         articleButton.setOnClickListener(this);
         current_Button.setOnClickListener(this);
         contactButton.setOnClickListener(this);
@@ -384,10 +376,7 @@ public class Home_Activity extends AppCompatActivity implements View.OnClickList
                 i = new Intent(this, NotificationActivity.class);
                 startActivity(i);
                 break;
-            case R.id.quiz_Button:
-                i = new Intent(this, QuizActivity.class);
-                startActivity(i);
-                break;
+
             case R.id.article_Button:
                 i = new Intent(this, ArticleActivity.class);
                 startActivity(i);

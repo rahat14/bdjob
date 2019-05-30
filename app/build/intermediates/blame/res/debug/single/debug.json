@@ -1,11 +1,11 @@
 [
     {
-        "merged": "D:\\bdjob\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_default.xml.flat",
-        "source": "C:\\Users\\Null-_-\\.gradle\\caches\\transforms-2\\files-2.1\\1e56cb0859248889815e308c311d3945\\res\\color-v23\\abc_tint_default.xml"
-    },
-    {
         "merged": "D:\\bdjob\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_send_black_24dp.xml.flat",
         "source": "D:\\bdjob\\app\\src\\main\\res\\drawable\\ic_send_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\bdjob\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_default.xml.flat",
+        "source": "C:\\Users\\Null-_-\\.gradle\\caches\\transforms-2\\files-2.1\\1e56cb0859248889815e308c311d3945\\res\\color-v23\\abc_tint_default.xml"
     },
     {
         "merged": "D:\\bdjob\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_popup_enter.xml.flat",
@@ -28,16 +28,16 @@
         "source": "C:\\Users\\Null-_-\\.gradle\\caches\\transforms-2\\files-2.1\\1e56cb0859248889815e308c311d3945\\res\\anim\\abc_popup_exit.xml"
     },
     {
-        "merged": "D:\\bdjob\\app\\build\\intermediates\\res\\merged\\debug\\color_design_tint_password_toggle.xml.flat",
-        "source": "C:\\Users\\Null-_-\\.gradle\\caches\\transforms-2\\files-2.1\\c9b0591913ddb2d123cc8f26f5688daf\\res\\color\\design_tint_password_toggle.xml"
+        "merged": "D:\\bdjob\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_chip_ripple_color.xml.flat",
+        "source": "C:\\Users\\Null-_-\\.gradle\\caches\\transforms-2\\files-2.1\\c9b0591913ddb2d123cc8f26f5688daf\\res\\color\\mtrl_chip_ripple_color.xml"
     },
     {
         "merged": "D:\\bdjob\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
         "source": "C:\\Users\\Null-_-\\.gradle\\caches\\transforms-2\\files-2.1\\1e56cb0859248889815e308c311d3945\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
-        "merged": "D:\\bdjob\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_chip_ripple_color.xml.flat",
-        "source": "C:\\Users\\Null-_-\\.gradle\\caches\\transforms-2\\files-2.1\\c9b0591913ddb2d123cc8f26f5688daf\\res\\color\\mtrl_chip_ripple_color.xml"
+        "merged": "D:\\bdjob\\app\\build\\intermediates\\res\\merged\\debug\\color_design_tint_password_toggle.xml.flat",
+        "source": "C:\\Users\\Null-_-\\.gradle\\caches\\transforms-2\\files-2.1\\c9b0591913ddb2d123cc8f26f5688daf\\res\\color\\design_tint_password_toggle.xml"
     },
     {
         "merged": "D:\\bdjob\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_focused_holo.9.png.flat",
@@ -92,12 +92,12 @@
         "source": "C:\\Users\\Null-_-\\.gradle\\caches\\transforms-2\\files-2.1\\1e56cb0859248889815e308c311d3945\\res\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
-        "merged": "D:\\bdjob\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_half_black_48dp.png.flat",
-        "source": "C:\\Users\\Null-_-\\.gradle\\caches\\transforms-2\\files-2.1\\1e56cb0859248889815e308c311d3945\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png"
-    },
-    {
         "merged": "D:\\bdjob\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_for_bcs_prep.xml.flat",
         "source": "D:\\bdjob\\app\\src\\main\\res\\layout\\row_for_bcs_prep.xml"
+    },
+    {
+        "merged": "D:\\bdjob\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "C:\\Users\\Null-_-\\.gradle\\caches\\transforms-2\\files-2.1\\1e56cb0859248889815e308c311d3945\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png"
     },
     {
         "merged": "D:\\bdjob\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_custom.xml.flat",
@@ -116,16 +116,16 @@
         "source": "C:\\Users\\Null-_-\\.gradle\\caches\\transforms-2\\files-2.1\\c9b0591913ddb2d123cc8f26f5688daf\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
     },
     {
-        "merged": "D:\\bdjob\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ratingbar_indicator_material.xml.flat",
-        "source": "C:\\Users\\Null-_-\\.gradle\\caches\\transforms-2\\files-2.1\\1e56cb0859248889815e308c311d3945\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+        "merged": "D:\\bdjob\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_vector_test.xml.flat",
+        "source": "C:\\Users\\Null-_-\\.gradle\\caches\\transforms-2\\files-2.1\\1e56cb0859248889815e308c311d3945\\res\\drawable\\abc_vector_test.xml"
     },
     {
         "merged": "D:\\bdjob\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
         "source": "C:\\Users\\Null-_-\\.gradle\\caches\\transforms-2\\files-2.1\\1e56cb0859248889815e308c311d3945\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_48dp.png"
     },
     {
-        "merged": "D:\\bdjob\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_vector_test.xml.flat",
-        "source": "C:\\Users\\Null-_-\\.gradle\\caches\\transforms-2\\files-2.1\\1e56cb0859248889815e308c311d3945\\res\\drawable\\abc_vector_test.xml"
+        "merged": "D:\\bdjob\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ratingbar_indicator_material.xml.flat",
+        "source": "C:\\Users\\Null-_-\\.gradle\\caches\\transforms-2\\files-2.1\\1e56cb0859248889815e308c311d3945\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
         "merged": "D:\\bdjob\\app\\build\\intermediates\\res\\merged\\debug\\drawable_navigation_empty_icon.xml.flat",
@@ -144,12 +144,12 @@
         "source": "D:\\bdjob\\app\\src\\main\\res\\layout\\activity_syllabus.xml"
     },
     {
-        "merged": "D:\\bdjob\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\Null-_-\\.gradle\\caches\\transforms-2\\files-2.1\\1e56cb0859248889815e308c311d3945\\res\\drawable-xxhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
-    },
-    {
         "merged": "D:\\bdjob\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_search.png.flat",
         "source": "D:\\bdjob\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "D:\\bdjob\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Null-_-\\.gradle\\caches\\transforms-2\\files-2.1\\1e56cb0859248889815e308c311d3945\\res\\drawable-xxhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
         "merged": "D:\\bdjob\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_dialog_title_material.xml.flat",
@@ -188,12 +188,12 @@
         "source": "C:\\Users\\Null-_-\\.gradle\\caches\\transforms-2\\files-2.1\\1e56cb0859248889815e308c311d3945\\res\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "D:\\bdjob\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_for_current.xml.flat",
-        "source": "D:\\bdjob\\app\\src\\main\\res\\layout\\row_for_current.xml"
-    },
-    {
         "merged": "D:\\bdjob\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
         "source": "C:\\Users\\Null-_-\\.gradle\\caches\\transforms-2\\files-2.1\\1e56cb0859248889815e308c311d3945\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\bdjob\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_for_current.xml.flat",
+        "source": "D:\\bdjob\\app\\src\\main\\res\\layout\\row_for_current.xml"
     },
     {
         "merged": "D:\\bdjob\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_text_cursor_material.xml.flat",
@@ -366,10 +366,6 @@
     {
         "merged": "D:\\bdjob\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
         "source": "C:\\Users\\Null-_-\\.gradle\\caches\\transforms-2\\files-2.1\\1e56cb0859248889815e308c311d3945\\res\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
-    },
-    {
-        "merged": "D:\\bdjob\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_loading.png.flat",
-        "source": "D:\\bdjob\\app\\src\\main\\res\\drawable-mdpi\\loading.png"
     },
     {
         "merged": "D:\\bdjob\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_activity_chooser_view_list_item.xml.flat",
@@ -794,6 +790,10 @@
     {
         "merged": "D:\\bdjob\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_content_include.xml.flat",
         "source": "C:\\Users\\Null-_-\\.gradle\\caches\\transforms-2\\files-2.1\\1e56cb0859248889815e308c311d3945\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\bdjob\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_lohohi.png.flat",
+        "source": "D:\\bdjob\\app\\src\\main\\res\\drawable-hdpi\\lohohi.png"
     },
     {
         "merged": "D:\\bdjob\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_govt_job_prep.xml.flat",
@@ -1442,6 +1442,10 @@
     {
         "merged": "D:\\bdjob\\app\\build\\intermediates\\res\\merged\\debug\\drawable_math_icon.png.flat",
         "source": "D:\\bdjob\\app\\src\\main\\res\\drawable\\math_icon.png"
+    },
+    {
+        "merged": "D:\\bdjob\\app\\build\\intermediates\\res\\merged\\debug\\drawable_loading.png.flat",
+        "source": "D:\\bdjob\\app\\src\\main\\res\\drawable\\loading.png"
     },
     {
         "merged": "D:\\bdjob\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_bottom_sheet_dialog.xml.flat",

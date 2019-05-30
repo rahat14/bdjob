@@ -5,11 +5,7 @@
 
     <group android:checkableBehavior="single">
 
-        <item
-            android:id="@+id/profile_menu"
-            android:title="প্রোফাইল"
 
-            />
         <item
             android:id="@+id/bookmark_menu"
             android:title="বুকমার্ক"
@@ -59,11 +55,7 @@
             android:title="বিশেষ"
 
             />
-        <item
-            android:id="@+id/Quiz_prep_menu"
-            android:title="কুইজ"
 
-            />
         <item
             android:id="@+id/Samprotik_prep_menu"
             android:title="সাম্প্রতিক"
@@ -78,11 +70,6 @@
         <item
             android:id="@+id/Edotorial_prep_menu"
             android:title="সম্পাদকীয়"
-
-            />
-        <item
-            android:id="@+id/Shop_prep_menu"
-            android:title="শপ"
 
             />
 

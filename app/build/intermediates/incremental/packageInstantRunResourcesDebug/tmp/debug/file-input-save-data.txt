@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Thu May 30 13:47:06 BDT 2019
+1.base=D\:\\bdjob\\app\\build\\intermediates\\merged_assets\\debug\\out
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=ASSET
+0.path=crashlytics-build.properties
+0.set=ASSET
+0.base=D\:\\bdjob\\app\\build\\intermediates\\merged_assets\\debug\\out
+1.path=fonts/SolaimanLipi_29-05-06.ttf

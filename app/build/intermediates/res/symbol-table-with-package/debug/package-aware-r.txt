@@ -1121,6 +1121,7 @@ drawable jobs_icon
 drawable loading
 drawable login
 drawable logo
+drawable lohohi
 drawable maintaince
 drawable math_icon
 drawable menu_item_background
@@ -1216,13 +1217,11 @@ id NAV_ID_post_list
 id Name_input
 id Next_btn
 id Others_prep_menu
-id Quiz_prep_menu
 id Quizwebview
 id Rate_menu
 id SHIFT
 id SYM
 id Samprotik_prep_menu
-id Shop_prep_menu
 id Shopview
 id SignUPBTN
 id Voca_prep_menu
@@ -1393,7 +1392,6 @@ id exitUntilCollapsed
 id expand_activities_button
 id expanded_menu
 id feature_Button
-id feature_title
 id fill
 id fill_horizontal
 id fill_vertical
@@ -1488,7 +1486,6 @@ id postIDBOOKMARK
 id post_bookmark_drawerId
 id post_list_drawerId
 id postwebview
-id profile_menu
 id progresBar_Editorail
 id progressBar1
 id progressBarACCOutnsetup
@@ -1518,7 +1515,6 @@ id progressbar_job_ad
 id prostuti
 id questionBank_Button
 id quiz
-id quiz_Button
 id quiz_title
 id rDescriptionTv
 id rDescriptionTvBOOKMARK

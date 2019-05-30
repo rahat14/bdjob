@@ -1,7 +1,0 @@
-#Sat Apr 13 21:58:41 BDT 2019
-base.0=D\:\\Android-app\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out
-path.1=classes2.dex
-renamed.1=classes2.dex
-path.0=classes.dex
-renamed.0=classes.dex
-base.1=D\:\\Android-app\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out

@@ -70,10 +70,7 @@ public class Shop extends AppCompatActivity {
                         startActivity(i);
                         break;
 
-                    case R.id.profile_menu:
-                        i = new Intent(getApplicationContext(), profileActivity.class);
-                        startActivity(i);
-                        break;
+
                     case R.id.Bank_prep_menu:
                         Intent Bank = new Intent(getApplicationContext() ,Bank_Prep.class);
                         startActivity(Bank);
@@ -94,10 +91,7 @@ public class Shop extends AppCompatActivity {
                         Intent bises = new Intent(getApplicationContext() ,Bises.class);
                         startActivity(bises);
                         break;
-                    case R.id.Quiz_prep_menu:
-                        Intent quiz = new Intent(getApplicationContext() ,QuizActivity.class);
-                        startActivity(quiz);
-                        break;
+
                     case R.id.Samprotik_prep_menu:
                         Intent sam = new Intent(getApplicationContext() ,Current_Activity.class);
                         startActivity(sam);
@@ -109,10 +103,6 @@ public class Shop extends AppCompatActivity {
                     case R.id.Edotorial_prep_menu:
                         Intent edo = new Intent(getApplicationContext() ,Editorial.class);
                         startActivity(edo);
-                        break;
-                    case R.id.Shop_prep_menu:
-                        Intent shop = new Intent(getApplicationContext() ,Shop.class);
-                        startActivity(shop);
                         break;
                     case R.id.contact_us_menu:
                         Intent con = new Intent(getApplicationContext() ,ContactActivity.class);
@@ -142,7 +132,7 @@ public class Shop extends AppCompatActivity {
         mwebview.getSettings().setJavaScriptEnabled(true);mwebview.clearCache(true);
        mwebview.getSettings().setDomStorageEnabled(true);
 
-        mwebview.loadUrl("https://shopup.com.bd/shop/942/products");
+        mwebview.loadUrl("");
 
         Handler handler  = new Handler() ;
         handler.postDelayed(new Runnable() {
