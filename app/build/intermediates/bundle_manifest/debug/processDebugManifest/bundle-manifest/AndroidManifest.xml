@@ -89,7 +89,6 @@
             android:name="com.sysmela.bdjobsolution.Home_Activity"
             android:launchMode="singleTop" >
         </activity>
-        <activity android:name="com.sysmela.bdjobsolution.JobsActivity" />
         <activity android:name="com.sysmela.bdjobsolution.NotificationActivity" />
         <activity android:name="com.sysmela.bdjobsolution.QuizActivity" />
         <activity android:name="com.sysmela.bdjobsolution.ContactActivity" />

@@ -63,6 +63,10 @@ public class Current_Activity extends AppCompatActivity {
 
                 int id = menuItem.getItemId();
                 switch (id) {
+                    case R.id.home_menu:
+                        Intent home = new Intent(getApplicationContext() ,Home_Activity.class);
+                        startActivity(home);
+                        break;
                     case R.id.cakRi_menu:
                         Intent i = new Intent(getApplicationContext() ,PostsListActivity.class);
                         startActivity(i);

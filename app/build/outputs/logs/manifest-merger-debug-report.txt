@@ -339,10 +339,6 @@ ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:45:9-49:20
 		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:47:13-43
 	android:name
 		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:46:13-67
-activity#com.sysmela.bdjobsolution.JobsActivity
-ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:50:9-75
-	android:name
-		ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:50:19-72
 activity#com.sysmela.bdjobsolution.NotificationActivity
 ADDED from D:\bdjob\app\src\main\AndroidManifest.xml:51:9-83
 	android:name

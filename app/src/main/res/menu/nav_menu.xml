@@ -5,6 +5,12 @@
 
     <group android:checkableBehavior="single">
 
+        <item
+            android:id="@+id/home_menu"
+            android:title="হোম"
+
+            />
+
 
         <item
             android:id="@+id/bookmark_menu"

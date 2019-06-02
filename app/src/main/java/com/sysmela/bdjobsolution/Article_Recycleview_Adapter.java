@@ -11,6 +11,8 @@ import android.widget.TextView;
 
 import java.util.ArrayList;
 
+
+//can be delted
 public class Article_Recycleview_Adapter extends RecyclerView.Adapter {
      private ArrayList<Model_for_Article_row>dataset ;
 

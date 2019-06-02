@@ -28,6 +28,7 @@ import retrofit2.Response;
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
+//can be delted
 public class ArticleActivity extends AppCompatActivity {
     private RecyclerView recyclerView ;
     private ProgressBar progressBar ;
