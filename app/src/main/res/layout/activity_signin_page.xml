@@ -16,18 +16,25 @@
         android:indeterminateTint="@android:color/holo_orange_light"
         android:layout_height="wrap_content" />
 
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_marginTop="80dp"
+        android:src="@drawable/jobbd_icon"
+        />
+
         <TextView
-            android:layout_marginTop="70dp"
+            android:layout_marginTop="8dp"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="JOB\nSOLUTION"
+            android:text="BD Job Solution"
             android:layout_gravity="center"
+            android:textAllCaps="true"
             android:textColor="#ffffff"
-            android:textSize="60sp"
-            android:textStyle="normal"
+            android:textSize="24sp"
+            android:textStyle="bold"
             android:lines="2"
             android:gravity="center"
-            android:fontFamily="@font/title_font"
             />
 
 
@@ -38,7 +45,7 @@
         android:gravity="center"
         android:orientation="vertical"
         android:layout_gravity="center"
-        android:layout_marginTop="70dp"
+        android:layout_marginTop="20dp"
         android:showDividers="middle"
         android:divider="@drawable/hrznl_divider">
         <TextView
@@ -54,14 +61,13 @@
 
         <com.google.android.gms.common.SignInButton
             android:id="@+id/imageView3"
-            android:layout_width="220dp"
+            android:layout_width="300dp"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:foregroundGravity="center"
             android:layout_marginLeft="25dp"
             android:layout_marginRight="25dp"
             android:layout_marginTop="15dp"
-            android:layout_marginBottom="8dp"
 
             android:textAlignment="center"
             android:clickable="true"
@@ -136,20 +142,7 @@
         android:layout_gravity="center"
         android:gravity="center"
         android:padding="8dp"
-        android:layout_marginTop="40dp">
-        <LinearLayout
-            android:layout_width="100dp"
-            android:layout_height="wrap_content"
-            android:orientation="horizontal"
-            android:layout_gravity="center"
-            android:gravity="center"
-            android:padding="8dp">
-            <View
-                android:layout_width="match_parent"
-                android:layout_height="1dp"
-                android:background="@android:color/background_light"/>
-
-        </LinearLayout>
+        android:layout_marginTop="20dp">
         <LinearLayout
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -158,7 +151,7 @@
             android:gravity="center">
             <Button
                 android:id="@+id/signin_btn"
-                android:layout_width="100dp"
+                android:layout_width="300dp"
                 android:layout_height="40dp"
                 android:hint="Sign In"
                 tools:ignore="LabelFor"
@@ -171,19 +164,7 @@
                 android:padding="8dp"/>
         </LinearLayout>
 
-        <LinearLayout
-            android:layout_width="100dp"
-            android:layout_height="wrap_content"
-            android:orientation="horizontal"
-            android:layout_gravity="center"
-            android:gravity="center"
-            android:padding="8dp">
-            <View
-                android:layout_width="match_parent"
-                android:layout_height="1dp"
-                android:background="@android:color/background_light"/>
 
-        </LinearLayout>
 
     </LinearLayout>
 <LinearLayout
