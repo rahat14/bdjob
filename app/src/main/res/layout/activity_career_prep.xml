@@ -461,6 +461,7 @@
                             android:layout_marginTop="10dp"
                             android:fontFamily="@font/lip"
                             android:text="বাংলাদেশ বিষয়াবলী"
+                            android:textAlignment="center"
                             android:textSize="15sp"
                             android:textStyle="bold"/>
                         <View

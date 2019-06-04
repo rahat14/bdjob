@@ -19,12 +19,18 @@
         android:visibility="invisible"
         android:layout_height="wrap_content" />
 
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_marginTop="80dp"
+        android:src="@drawable/profile_create_icon"
+        />
+
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
-        android:layout_marginTop="80dp"
-        android:fontFamily="@font/pacifio"
+        android:layout_marginTop="40dp"
         android:gravity="center"
         android:lines="2"
         android:text="Create Your Profile"
@@ -40,7 +46,7 @@
         android:gravity="center"
         android:orientation="vertical"
         android:layout_gravity="center"
-        android:layout_marginTop="40dp"
+        android:layout_marginTop="10dp"
         android:showDividers="middle"
         android:divider="@drawable/hrznl_divider">
         <TextView
@@ -110,20 +116,8 @@
         android:layout_gravity="center"
         android:gravity="center"
         android:padding="8dp"
-        android:layout_marginTop="40dp">
-        <LinearLayout
-            android:layout_width="100dp"
-            android:layout_height="wrap_content"
-            android:orientation="horizontal"
-            android:layout_gravity="center"
-            android:gravity="center"
-            android:padding="8dp">
-            <View
-                android:layout_width="match_parent"
-                android:layout_height="1dp"
-                android:background="@android:color/background_light"/>
+        android:layout_marginTop="20dp">
 
-        </LinearLayout>
         <LinearLayout
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -132,7 +126,7 @@
             android:gravity="center">
             <Button
                 android:id="@+id/Next_btn"
-                android:layout_width="100dp"
+                android:layout_width="300dp"
                 android:layout_height="40dp"
                 android:hint="Proceed"
                 tools:ignore="LabelFor"
@@ -145,19 +139,6 @@
                 android:padding="8dp"/>
         </LinearLayout>
 
-        <LinearLayout
-            android:layout_width="100dp"
-            android:layout_height="wrap_content"
-            android:orientation="horizontal"
-            android:layout_gravity="center"
-            android:gravity="center"
-            android:padding="8dp">
-            <View
-                android:layout_width="match_parent"
-                android:layout_height="1dp"
-                android:background="@android:color/background_light"/>
-
-        </LinearLayout>
     </LinearLayout>
 
     <LinearLayout
