@@ -1,4 +1,4 @@
-#Thu May 30 22:55:31 BDT 2019
+#Tue Jun 04 19:39:14 BDT 2019
 base.0=D\:\\bdjob\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out
 path.1=classes2.dex
 renamed.1=classes2.dex

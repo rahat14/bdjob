@@ -16,6 +16,7 @@ import android.webkit.WebView;
 import android.webkit.WebViewClient;
 import android.widget.ProgressBar;
 
+import com.sysmela.bdjobsolution.NottifiactionModule.NottificationPage;
 import com.sysmela.bdjobsolution.bookMarkController.bookmarkActivity;
 
 public class Shop extends AppCompatActivity {
@@ -30,7 +31,7 @@ public class Shop extends AppCompatActivity {
         setContentView(R.layout.activity_shop2);
 
 
-
+/*
 
         pbar = (ProgressBar)findViewById(R.id.progressBar_shop);
         mwebview = (WebView) findViewById(R.id.Shopview);
@@ -88,7 +89,7 @@ public class Shop extends AppCompatActivity {
                         startActivity(others);
                         break;
                     case R.id.noticeBoard_prep_menu:
-                        Intent notiice = new Intent(getApplicationContext() ,ArticleActivity.class);
+                        Intent notiice = new Intent(getApplicationContext() , NottificationPage.class);
                         startActivity(notiice);
                         break;
                     case R.id.bises_prep_menu:
@@ -178,5 +179,7 @@ public class Shop extends AppCompatActivity {
         super.onBackPressed();
 
     }
+    */
 }
+
 }

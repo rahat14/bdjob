@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Thu May 30 22:55:31 BDT 2019
+#Tue Jun 04 19:39:14 BDT 2019
 1.base=D\:\\bdjob\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out
 2.path=fonts/SolaimanLipi_29-05-06.ttf
 0.baseType=DIRECTORY

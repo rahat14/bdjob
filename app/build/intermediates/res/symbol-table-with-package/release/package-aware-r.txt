@@ -1,4 +1,4 @@
-com.metacoders.home
+com.sysmela.bdjobsolution
 anim abc_fade_in
 anim abc_fade_out
 anim abc_grow_fade_in_from_bottom
@@ -1071,6 +1071,8 @@ drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
 drawable editorial_icon
+drawable editorialicon
+drawable eng_icon
 drawable english_icon
 drawable feature_icon
 drawable googleg_disabled_color_18
@@ -1117,6 +1119,8 @@ drawable ic_supervisor_account_black_24dp
 drawable ict_icon
 drawable international_icon
 drawable job_prep_icon
+drawable jobbd_icon
+drawable jobprepicon
 drawable jobs_icon
 drawable loading
 drawable login
@@ -1145,6 +1149,7 @@ drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
 drawable others_icon
+drawable profile_create_icon
 drawable prostuti_icon
 drawable qsn_bank
 drawable quiz_icon
@@ -1156,6 +1161,7 @@ drawable shop_icon
 drawable splash_background
 drawable splash_logo
 drawable teacher_icon
+drawable techer_nibondon
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
 drawable voca_icon
@@ -1409,6 +1415,7 @@ id group_divider
 id groups
 id home
 id homeAsUp
+id home_menu
 id icon
 id icon_group
 id icon_only

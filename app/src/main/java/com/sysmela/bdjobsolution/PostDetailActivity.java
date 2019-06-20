@@ -32,6 +32,7 @@ import com.google.android.gms.tasks.Task;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
+import com.sysmela.bdjobsolution.NottifiactionModule.NottificationPage;
 import com.sysmela.bdjobsolution.model.modelForBookMark;
 import com.squareup.picasso.Picasso;
 
@@ -141,7 +142,7 @@ String image , title , desc ;
                         startActivity(others);
                         break;
                     case R.id.noticeBoard_prep_menu:
-                        Intent notiice = new Intent(getApplicationContext() ,ArticleActivity.class);
+                        Intent notiice = new Intent(getApplicationContext() , NottificationPage.class);
                         startActivity(notiice);
                         break;
                     case R.id.bises_prep_menu:

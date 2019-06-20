@@ -28,7 +28,7 @@
                 android:layout_height="wrap_content"
                 android:text="Title"
                 android:textColor="#000"
-                android:textSize="22sp"
+                android:textSize="20sp"
                 android:textStyle="bold" />
 
             <TextView
@@ -39,7 +39,7 @@
                 android:ellipsize="marquee"
                 android:singleLine="true"
                 android:text="This will be the description of the post"
-                android:textSize="18sp"
+                android:textSize="17sp"
                 android:textStyle="bold" />
 
             <TextView

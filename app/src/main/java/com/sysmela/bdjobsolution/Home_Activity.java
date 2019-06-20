@@ -110,7 +110,7 @@ public class Home_Activity extends AppCompatActivity implements View.OnClickList
                         startActivity(others);
                         break;
                     case R.id.noticeBoard_prep_menu:
-                        Intent notiice = new Intent(getApplicationContext(), ArticleActivity.class);
+                        Intent notiice = new Intent(getApplicationContext(),NottificationPage.class);
                         startActivity(notiice);
                         break;
                     case R.id.bises_prep_menu:
@@ -378,7 +378,7 @@ public class Home_Activity extends AppCompatActivity implements View.OnClickList
                 break;
 
             case R.id.article_Button:
-                i = new Intent(this, ArticleActivity.class);
+                i = new Intent(this, NottificationPage.class);
                 startActivity(i);
                 break;
 
@@ -392,8 +392,16 @@ public class Home_Activity extends AppCompatActivity implements View.OnClickList
                 startActivity(i);
                 break;
             case R.id.settings_Button:
-                i = new Intent(this, Shop.class);
-                startActivity(i);
+                try {
+                    startActivity(new Intent(Intent.ACTION_VIEW,
+                            Uri.parse("market://details?id=" + getPackageName())));
+
+                } catch (ActivityNotFoundException e) {
+
+                    startActivity(new Intent(Intent.ACTION_VIEW,
+                            Uri.parse("https://play.google.com/store/apps/details?id=" + getPackageName())));
+
+                }
                 break;
             case R.id.about_Button:
                 i = new Intent(this, AboutActivity.class);

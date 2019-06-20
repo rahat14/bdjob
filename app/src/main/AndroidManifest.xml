@@ -13,10 +13,10 @@
     <application
         android:name="com.sysmela.bdjobsolution.Android_app"
         android:allowBackup="true"
-        android:icon="@mipmap/logo"
+        android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:launchMode="singleInstance"
-        android:roundIcon="@mipmap/logo"
+        android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
@@ -49,15 +49,11 @@
         </activity>
 
         <activity android:name="com.sysmela.bdjobsolution.NotificationActivity" />
-        <activity android:name="com.sysmela.bdjobsolution.QuizActivity" />
         <activity android:name="com.sysmela.bdjobsolution.ContactActivity" />
         <activity android:name="com.sysmela.bdjobsolution.SettingsActivity" />
         <activity android:name="com.sysmela.bdjobsolution.AboutActivity" />
-        <activity android:name="com.sysmela.bdjobsolution.ArticleActivity" />
         <activity android:name="com.sysmela.bdjobsolution.PostsListActivity" />
         <activity android:name="com.sysmela.bdjobsolution.PostDetailActivity" />
-        <activity android:name="com.sysmela.bdjobsolution.WPPostDetails" />
-        <activity android:name="com.sysmela.bdjobsolution.Wp_Quiz_details" />
 
         <meta-data
             android:name="io.fabric.ApiKey"

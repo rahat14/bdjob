@@ -10,4 +10,5 @@
     <color name="teal">#5e92f3</color>
     <color name="teallight">#5e92f3</color>
     <color name="colorAccent">#A51234</color>
+    <color name="splashColor"> #116099</color>
 </resources>

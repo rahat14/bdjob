@@ -328,12 +328,12 @@ public final class R {
         public static final int secondary_text_default_material_light = 0x7f050087;
         public static final int secondary_text_disabled_material_dark = 0x7f050088;
         public static final int secondary_text_disabled_material_light = 0x7f050089;
-        public static final int switch_thumb_disabled_material_dark = 0x7f05008a;
-        public static final int switch_thumb_disabled_material_light = 0x7f05008b;
-        public static final int switch_thumb_material_dark = 0x7f05008c;
-        public static final int switch_thumb_material_light = 0x7f05008d;
-        public static final int switch_thumb_normal_material_dark = 0x7f05008e;
-        public static final int switch_thumb_normal_material_light = 0x7f05008f;
+        public static final int switch_thumb_disabled_material_dark = 0x7f05008b;
+        public static final int switch_thumb_disabled_material_light = 0x7f05008c;
+        public static final int switch_thumb_material_dark = 0x7f05008d;
+        public static final int switch_thumb_material_light = 0x7f05008e;
+        public static final int switch_thumb_normal_material_dark = 0x7f05008f;
+        public static final int switch_thumb_normal_material_light = 0x7f050090;
     }
     public static final class dimen {
         private dimen() {}
@@ -494,7 +494,7 @@ public final class R {
         public static final int common_google_signin_btn_text_light = 0x7f070081;
         public static final int common_google_signin_btn_text_light_focused = 0x7f070082;
         public static final int common_google_signin_btn_text_light_normal = 0x7f070083;
-        public static final int notification_template_icon_bg = 0x7f0700d3;
+        public static final int notification_template_icon_bg = 0x7f0700d8;
     }
     public static final class id {
         private id() {}

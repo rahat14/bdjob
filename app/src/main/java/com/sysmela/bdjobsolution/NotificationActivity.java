@@ -16,6 +16,7 @@ import android.view.View;
 import com.crashlytics.android.Crashlytics;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
+import com.sysmela.bdjobsolution.NottifiactionModule.NottificationPage;
 
 import io.fabric.sdk.android.Fabric;
 
@@ -92,7 +93,7 @@ public class NotificationActivity extends AppCompatActivity implements View.OnCl
                         startActivity(others);
                         break;
                     case R.id.noticeBoard_prep_menu:
-                        Intent notiice = new Intent(getApplicationContext() ,ArticleActivity.class);
+                        Intent notiice = new Intent(getApplicationContext() , NottificationPage.class);
                         startActivity(notiice);
                         break;
                     case R.id.bises_prep_menu:

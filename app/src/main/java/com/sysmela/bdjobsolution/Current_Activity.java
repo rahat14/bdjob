@@ -91,10 +91,7 @@ public class Current_Activity extends AppCompatActivity {
                         Intent others = new Intent(getApplicationContext() ,career_prep_Others.class);
                         startActivity(others);
                         break;
-                    case R.id.noticeBoard_prep_menu:
-                        Intent notiice = new Intent(getApplicationContext() ,ArticleActivity.class);
-                        startActivity(notiice);
-                        break;
+
                     case R.id.bises_prep_menu:
                         Intent bises = new Intent(getApplicationContext() ,Bises.class);
                         startActivity(bises);

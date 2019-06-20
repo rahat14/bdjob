@@ -30,6 +30,7 @@ import com.firebase.ui.database.FirebaseRecyclerAdapter;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.Query;
+import com.sysmela.bdjobsolution.NottifiactionModule.NottificationPage;
 import com.sysmela.bdjobsolution.bookMarkController.bookmarkActivity;
 
 import io.fabric.sdk.android.Fabric;
@@ -112,7 +113,7 @@ public class Editorial extends AppCompatActivity {
                         startActivity(others);
                         break;
                     case R.id.noticeBoard_prep_menu:
-                        Intent notiice = new Intent(getApplicationContext() ,ArticleActivity.class);
+                        Intent notiice = new Intent(getApplicationContext() , NottificationPage.class);
                         startActivity(notiice);
                         break;
                     case R.id.bises_prep_menu:

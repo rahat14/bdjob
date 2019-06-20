@@ -15,6 +15,7 @@ import android.widget.TextView;
 
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
+import com.sysmela.bdjobsolution.NottifiactionModule.NottificationPage;
 import com.sysmela.bdjobsolution.bookMarkController.bookmarkActivity;
 
 public class postDetails_for_Career_prep_by_subject extends AppCompatActivity {
@@ -89,7 +90,7 @@ public class postDetails_for_Career_prep_by_subject extends AppCompatActivity {
                         startActivity(others);
                         break;
                     case R.id.noticeBoard_prep_menu:
-                        Intent notiice = new Intent(getApplicationContext() ,ArticleActivity.class);
+                        Intent notiice = new Intent(getApplicationContext() , NottificationPage.class);
                         startActivity(notiice);
                         break;
                     case R.id.bises_prep_menu:

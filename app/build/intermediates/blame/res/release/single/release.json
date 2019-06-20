@@ -40,12 +40,12 @@
         "source": "C:\\Users\\Null-_-\\.gradle\\caches\\transforms-2\\files-2.1\\1e56cb0859248889815e308c311d3945\\res\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
     },
     {
-        "merged": "D:\\bdjob\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_screen_content_include.xml.flat",
-        "source": "C:\\Users\\Null-_-\\.gradle\\caches\\transforms-2\\files-2.1\\1e56cb0859248889815e308c311d3945\\res\\layout\\abc_screen_content_include.xml"
-    },
-    {
         "merged": "D:\\bdjob\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
         "source": "C:\\Users\\Null-_-\\.gradle\\caches\\transforms-2\\files-2.1\\1e56cb0859248889815e308c311d3945\\res\\drawable-mdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\bdjob\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_screen_content_include.xml.flat",
+        "source": "C:\\Users\\Null-_-\\.gradle\\caches\\transforms-2\\files-2.1\\1e56cb0859248889815e308c311d3945\\res\\layout\\abc_screen_content_include.xml"
     },
     {
         "merged": "D:\\bdjob\\app\\build\\intermediates\\res\\merged\\release\\drawable_common_google_signin_btn_icon_light_normal.xml.flat",
@@ -60,12 +60,12 @@
         "source": "C:\\Users\\Null-_-\\.gradle\\caches\\transforms-2\\files-2.1\\1e56cb0859248889815e308c311d3945\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_48dp.png"
     },
     {
-        "merged": "D:\\bdjob\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
-        "source": "C:\\Users\\Null-_-\\.gradle\\caches\\transforms-2\\files-2.1\\a238153c4684451bcdb17cb81946ef0c\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
-    },
-    {
         "merged": "D:\\bdjob\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher.png.flat",
         "source": "D:\\bdjob\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\bdjob\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Null-_-\\.gradle\\caches\\transforms-2\\files-2.1\\a238153c4684451bcdb17cb81946ef0c\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
     },
     {
         "merged": "D:\\bdjob\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
@@ -188,28 +188,28 @@
         "source": "C:\\Users\\Null-_-\\.gradle\\caches\\transforms-2\\files-2.1\\e5ba984a1b9891b2a24160fa6ba0dabc\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
     },
     {
-        "merged": "D:\\bdjob\\app\\build\\intermediates\\res\\merged\\release\\font-v26_font.xml.flat",
-        "source": "D:\\bdjob\\app\\src\\main\\res\\font-v26\\font.xml"
+        "merged": "D:\\bdjob\\app\\build\\intermediates\\res\\merged\\release\\drawable_contact_icon.png.flat",
+        "source": "D:\\bdjob\\app\\src\\main\\res\\drawable\\contact_icon.png"
     },
     {
         "merged": "D:\\bdjob\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_list_menu_item_radio.xml.flat",
         "source": "C:\\Users\\Null-_-\\.gradle\\caches\\transforms-2\\files-2.1\\1e56cb0859248889815e308c311d3945\\res\\layout\\abc_list_menu_item_radio.xml"
     },
     {
-        "merged": "D:\\bdjob\\app\\build\\intermediates\\res\\merged\\release\\drawable_contact_icon.png.flat",
-        "source": "D:\\bdjob\\app\\src\\main\\res\\drawable\\contact_icon.png"
+        "merged": "D:\\bdjob\\app\\build\\intermediates\\res\\merged\\release\\font-v26_font.xml.flat",
+        "source": "D:\\bdjob\\app\\src\\main\\res\\font-v26\\font.xml"
     },
     {
         "merged": "D:\\bdjob\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "C:\\Users\\Null-_-\\.gradle\\caches\\transforms-2\\files-2.1\\1e56cb0859248889815e308c311d3945\\res\\drawable-ldrtl-xxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
-        "merged": "D:\\bdjob\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_ic_star_black_16dp.png.flat",
-        "source": "C:\\Users\\Null-_-\\.gradle\\caches\\transforms-2\\files-2.1\\1e56cb0859248889815e308c311d3945\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
-    },
-    {
         "merged": "D:\\bdjob\\app\\build\\intermediates\\res\\merged\\release\\drawable_mtrl_snackbar_background.xml.flat",
         "source": "C:\\Users\\Null-_-\\.gradle\\caches\\transforms-2\\files-2.1\\c9b0591913ddb2d123cc8f26f5688daf\\res\\drawable\\mtrl_snackbar_background.xml"
+    },
+    {
+        "merged": "D:\\bdjob\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "C:\\Users\\Null-_-\\.gradle\\caches\\transforms-2\\files-2.1\\1e56cb0859248889815e308c311d3945\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
     },
     {
         "merged": "D:\\bdjob\\app\\build\\intermediates\\res\\merged\\release\\drawable_about_icon.png.flat",
@@ -432,6 +432,10 @@
         "source": "C:\\Users\\Null-_-\\.gradle\\caches\\transforms-2\\files-2.1\\1e56cb0859248889815e308c311d3945\\res\\drawable\\abc_vector_test.xml"
     },
     {
+        "merged": "D:\\bdjob\\app\\build\\intermediates\\res\\merged\\release\\drawable_profile_create_icon.png.flat",
+        "source": "D:\\bdjob\\app\\src\\main\\res\\drawable\\profile_create_icon.png"
+    },
+    {
         "merged": "D:\\bdjob\\app\\build\\intermediates\\res\\merged\\release\\drawable-watch-v20_common_google_signin_btn_text_dark_normal.xml.flat",
         "source": "C:\\Users\\Null-_-\\.gradle\\caches\\transforms-2\\files-2.1\\d90e53c5fcd3017d03baf944fd63fcad\\res\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml"
     },
@@ -450,6 +454,10 @@
     {
         "merged": "D:\\bdjob\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
         "source": "C:\\Users\\Null-_-\\.gradle\\caches\\transforms-2\\files-2.1\\1e56cb0859248889815e308c311d3945\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\bdjob\\app\\build\\intermediates\\res\\merged\\release\\drawable_jobbd_icon.png.flat",
+        "source": "D:\\bdjob\\app\\src\\main\\res\\drawable\\jobbd_icon.png"
     },
     {
         "merged": "D:\\bdjob\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher.png.flat",
@@ -1252,6 +1260,10 @@
         "source": "C:\\Users\\Null-_-\\.gradle\\caches\\transforms-2\\files-2.1\\1e56cb0859248889815e308c311d3945\\res\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
+        "merged": "D:\\bdjob\\app\\build\\intermediates\\res\\merged\\release\\drawable_editorialicon.png.flat",
+        "source": "D:\\bdjob\\app\\src\\main\\res\\drawable\\editorialicon.png"
+    },
+    {
         "merged": "D:\\bdjob\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21_avd_show_password.xml.flat",
         "source": "C:\\Users\\Null-_-\\.gradle\\caches\\transforms-2\\files-2.1\\c9b0591913ddb2d123cc8f26f5688daf\\res\\drawable-v21\\avd_show_password.xml"
     },
@@ -1446,6 +1458,10 @@
     {
         "merged": "D:\\bdjob\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_voca_activity.xml.flat",
         "source": "D:\\bdjob\\app\\src\\main\\res\\layout\\activity_voca_activity.xml"
+    },
+    {
+        "merged": "D:\\bdjob\\app\\build\\intermediates\\res\\merged\\release\\drawable_jobprepicon.png.flat",
+        "source": "D:\\bdjob\\app\\src\\main\\res\\drawable\\jobprepicon.png"
     },
     {
         "merged": "D:\\bdjob\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
@@ -2112,6 +2128,10 @@
         "source": "D:\\bdjob\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
+        "merged": "D:\\bdjob\\app\\build\\intermediates\\res\\merged\\release\\drawable_eng_icon.png.flat",
+        "source": "D:\\bdjob\\app\\src\\main\\res\\drawable\\eng_icon.png"
+    },
+    {
         "merged": "D:\\bdjob\\app\\build\\intermediates\\res\\merged\\release\\font_pacifio.ttf.flat",
         "source": "D:\\bdjob\\app\\src\\main\\res\\font\\pacifio.ttf"
     },
@@ -2582,6 +2602,10 @@
     {
         "merged": "D:\\bdjob\\app\\build\\intermediates\\res\\merged\\release\\layout_row_for_bookmark.xml.flat",
         "source": "D:\\bdjob\\app\\src\\main\\res\\layout\\row_for_bookmark.xml"
+    },
+    {
+        "merged": "D:\\bdjob\\app\\build\\intermediates\\res\\merged\\release\\drawable_techer_nibondon.png.flat",
+        "source": "D:\\bdjob\\app\\src\\main\\res\\drawable\\techer_nibondon.png"
     },
     {
         "merged": "D:\\bdjob\\app\\build\\intermediates\\res\\merged\\release\\layout_row_for_bcs_prep.xml.flat",
